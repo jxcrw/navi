@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:divider="?android:dividerHorizontal"
+              android:showDividers="middle">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:text="Saturday 9/29/2014"
+            android:id="@+id/practicesesh_date"
+            android:layout_weight="1.8"
+            android:paddingLeft="16dp"/>
+
+        <TextView
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="0 balls"
+            android:id="@+id/practicesesh_balls_hit"
+            android:layout_weight=".85"
+            />
+
+        <TextView
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="0 hours"
+            android:id="@+id/practicesesh_duration"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
+
+    <ExpandableListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/expandableListView"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Debug"
+        android:id="@+id/debug_button"
+        android:layout_gravity="center_horizontal"/>
+
+
+</LinearLayout>
+
+<!--<LinearLayout-->
+<!--android:orientation="horizontal"-->
+<!--android:layout_width="fill_parent"-->
+<!--android:layout_height="wrap_content"-->
+<!--style="@android:style/DeviceDefault.ButtonBar"-->
+    <!-->-->
+
+<!--<ImageButton-->
+    <!--android:id="@+id/golfskill_putt_button"-->
+    <!--style="?android:borderlessButtonStyle"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:src="@drawable/ic_action_location_found"-->
+    <!--android:contentDescription="@string/delete_content_description"-->
+    <!--android:focusable="false"-->
+    <!--android:layout_weight="1"/>-->
+
+<!--<ImageButton-->
+    <!--android:id="@+id/golfskill_chippitch_button"-->
+    <!--style="?android:borderlessButtonStyle"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:src="@drawable/ic_action_play"-->
+    <!--android:contentDescription="@string/delete_content_description"-->
+    <!--android:layout_weight="1"/>-->
+
+<!--<ImageButton-->
+    <!--android:id="@+id/golfskill_bunker_button"-->
+    <!--style="?android:borderlessButtonStyle"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:src="@drawable/beach"-->
+    <!--android:contentDescription="@string/delete_content_description"-->
+    <!--android:focusable="false"-->
+    <!--android:layout_weight="1"/>-->
+
+<!--<ImageButton-->
+    <!--android:id="@+id/golfskill_teeapproach_button"-->
+    <!--style="?android:borderlessButtonStyle"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:src="@drawable/teeapproach"-->
+    <!--android:contentDescription="@string/delete_content_description"-->
+    <!--android:layout_weight="1"/>-->
+
+
+<!--</LinearLayout>-->

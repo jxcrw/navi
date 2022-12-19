@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:minHeight="?android:listPreferredItemHeight"
+              android:showDividers="middle"
+              android:clickable="false"
+              android:focusable="false"
+              android:descendantFocusability="blocksDescendants" >
+
+    <LinearLayout
+        android:id="@+id/primary_target"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="10"
+        android:orientation="vertical"
+        android:paddingLeft="?android:listPreferredItemPaddingLeft"
+        android:paddingRight="?android:listPreferredItemPaddingRight"
+        android:clickable="false"
+        android:focusable="false"
+        android:gravity="center_vertical"
+        android:background="?android:selectableItemBackground"
+        android:layout_marginLeft="22dp">
+        <TextView
+            style="?android:textAppearanceListItem"
+            android:id="@+id/golfskill_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tee/Approach Shots" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                style="?android:textAppearanceSmall"
+                android:id="@+id/golfskill_start_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10:55" />
+            <TextView
+                style="?android:textAppearanceSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="—" />
+            <TextView
+                style="?android:textAppearanceSmall"
+                android:id="@+id/golfskill_end_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+
+            <TextView
+                style="?android:textAppearanceSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=", " />
+
+            <TextView
+                style="?android:textAppearanceSmall"
+                android:id="@+id/golfskill_balls_hit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0" />
+
+            <TextView
+                style="?android:textAppearanceSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" balls" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:divider="?android:dividerVertical"
+    android:dividerPadding="8dp"
+    android:showDividers="middle"
+        >
+
+    <ImageButton
+    android:id="@+id/add_club_button"
+    style="?android:borderlessButtonStyle"
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:src="@drawable/ic_action_new"
+    android:contentDescription="@string/delete_content_description"
+    android:focusable="false"
+    android:layout_weight="1"/>
+
+    <ImageButton
+    android:id="@+id/stop_skill_button"
+    style="?android:borderlessButtonStyle"
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:src="@drawable/ic_action_stop"
+    android:contentDescription="@string/delete_content_description"
+    android:layout_weight="1"/>
+    </LinearLayout>
+
+</LinearLayout>

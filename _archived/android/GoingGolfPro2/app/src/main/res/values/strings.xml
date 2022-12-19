@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Going Golf Pro2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_practice">PracticeActivity</string>
+    <string name="practice_activity_subtitle">Practice Sessions</string>
+    <string name="add_practice_session">New Practice Session</string>
+    <string name="title_activity_practice_session">PracticeSessionActivity</string>
+    <string name="title_activity_practice_sesh">PracticeSeshActivity</string>
+    <string name="title_activity_practice_sesh_list">PracticeSeshListActivity</string>
+    <string name="golf_skill_picker_title">Select a skill</string>
+    <string-array name="skill_list">
+        <item>Tee/approach shots</item>
+        <item>Chipping/pitching</item>
+        <item>Sand shots</item>
+        <item>Putting</item>
+    </string-array>
+
+</resources>

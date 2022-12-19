@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Going Golf Pro 3</string>
+    <string name="title_activity_practice">PracticeActivity</string>
+    <string name="practice_activity_subtitle">Practice Sessions</string>
+    <string name="add_practice_session">New Practice Session</string>
+    <string name="title_activity_practice_session">PracticeSessionActivity</string>
+    <string name="title_activity_practice_sesh">PracticeSeshActivity</string>
+    <string name="title_activity_practice_sesh_list">PracticeSeshListActivity</string>
+    <string name="delete_content_description">Placeholder text.</string>
+    <string name="golf_skill_picker_title">Select a skill</string>
+    <string name="golf_club_and_balls_hit_picker_title">Select club and balls hit</string>
+
+    <string-array name="skill_list">
+        <item>Putt</item>
+        <item>Chip/Pitch</item>
+        <item>Bunker</item>
+        <item>Tee/Approach</item>
+    </string-array>
+
+    <string-array name="golf_club_list">
+        <item>Putter</item>
+        <item>60° wedge</item>
+        <item>56° wedge</item>
+        <item>52° wedge</item>
+        <item>PW</item>
+        <item>9 iron</item>
+        <item>8 iron</item>
+        <item>7 iron</item>
+        <item>6 iron</item>
+        <item>5 iron</item>
+        <item>4 iron</item>
+        <item>3 iron</item>
+        <item>3 wood</item>
+        <item>Driver</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

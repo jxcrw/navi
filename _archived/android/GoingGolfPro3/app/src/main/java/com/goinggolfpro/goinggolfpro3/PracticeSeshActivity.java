@@ -1,0 +1,27 @@
+package com.goinggolfpro.goinggolfpro3;
+
+import android.app.Fragment;
+import android.os.Bundle;
+import android.view.Menu;
+
+
+public class PracticeSeshActivity extends SingleFragmentActivity {
+
+    @Override
+    protected Fragment createFragment() {
+        return new PracticeSeshFragment();
+    }
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_fragment);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+//        getMenuInflater().inflate(R.menu.practice_sesh, menu);
+        return true;
+    }
+}

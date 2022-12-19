@@ -1,0 +1,31 @@
+New file
+Open
+Save
+Print
+Print preview
+Cut
+Copy
+Paste
+Undo
+Redo
+Find & replace
+Current datetime
+Word count
+Insert table
+Insert image
+Bullet list
+Numbered list
+Font color
+Highlight color
+Bold
+Italic
+Underline
+Strikethrough
+Superscript
+Subscript
+Left align
+Center align
+Right align
+Justify
+Indent
+Dedent
