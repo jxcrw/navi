@@ -91,8 +91,8 @@ Anything reusable gets rolled into my [`pazuru/tools/dsa`](https://github.com/jx
 ## 5-6: Big O Notation
 - Big O: Complexity ≤ worst case
 - Big Ω: Complexity ≥ best case
-- Big Θ: Worst case < complexity < best case
-- O(1) < O(log n) < O(n) < O(n log n) < O(n^2) < O(2^n) < O(n!)
+- Big Θ: Worst case &lt; complexity &lt; best case
+- O(1) &lt; O(log n) &lt; O(n) &lt; O(n log n) &lt; O(n^2) &lt; O(2^n) &lt; O(n!)
 
 ### Time Complexity
 - How long algorithm takes to run
@@ -203,7 +203,7 @@ def f(n):
 
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
-## 7: Arrays
+## 7: Array
 ### What is an array?
 - Stores data of the same type (traditionally)
 - Elements located contiguously in memory (makes access efficient)
@@ -227,24 +227,24 @@ def f(n):
     my_array = array(typecode, [initializers]) #
     ```
 - 1D array complexity
-    | Operation          |          Time Complexity           | Space Complexity |
-    |:-------------------|:----------------------------------:|:----------------:|
-    | Creation           |                O(1)                |       O(n)       |
-    | Insertion          | O(1) (end)<br>O(n) (anywhere else) |       O(1)       |
-    | Accessing          |                O(1)                |       O(1)       |
-    | Traversal          |                O(n)                |       O(1)       |
-    | Searching (linear) |                O(n)                |       O(1)       |
-    | Deletion           | O(1) (end)<br>O(n) (anywhere else) |       O(1)       |
+    | Operation          | Time                               | Space |
+    |:-------------------|:----------------------------------:|:-----:|
+    | Creation           | O(1)                               | O(n)  |
+    | Insertion          | O(1) (end)<br>O(n) (anywhere else) | O(1)  |
+    | Accessing          | O(1)                               | O(1)  |
+    | Traversal          | O(n)                               | O(1)  |
+    | Searching (linear) | O(n)                               | O(1)  |
+    | Deletion           | O(1) (end)<br>O(n) (anywhere else) | O(1)  |
 
 - 2D array complexity
-    | Operation            |           Time Complexity           | Space Complexity |
-    |:---------------------|:-----------------------------------:|:----------------:|
-    | Creation             |                O(1)                 |      O(mn)       |
-    | Insertion of col/row | O(1) (end)<br>O(mn) (anywhere else) |       O(1)       |
-    | Accessing            |                O(1)                 |       O(1)       |
-    | Traversal            |                O(mn)                |       O(1)       |
-    | Searching (linear)   |                O(mn)                |       O(1)       |
-    | Deletion             | O(1) (end)<br>O(mn) (anywhere else) |       O(1)       |
+    | Operation            | Time                                | Space |
+    |:---------------------|:-----------------------------------:|:-----:|
+    | Creation             | O(1)                                | O(mn) |
+    | Insertion of col/row | O(1) (end)<br>O(mn) (anywhere else) | O(1)  |
+    | Accessing            | O(1)                                | O(1)  |
+    | Traversal            | O(mn)                               | O(1)  |
+    | Searching (linear)   | O(mn)                               | O(1)  |
+    | Deletion             | O(1) (end)<br>O(mn) (anywhere else) | O(1)  |
 
 ### When to Use/Avoid
 - When to use
@@ -257,7 +257,7 @@ def f(n):
 
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
-## 8: Python Lists
+## 8: Python List
 - List: Data structure that holds an ordered collection of items
 - Can contain items of different types
 
@@ -268,20 +268,20 @@ def f(n):
 - Arrays optimized for arithmetic operations.
 - Lists can contain elements of different data types.
 - Complexity
-    | Operation          |          Time Complexity           | Space Complexity |
-    |:-------------------|:----------------------------------:|:----------------:|
-    | Creation           |                O(1)                |       O(n)       |
-    | Insertion          | O(1) (end)<br>O(n) (anywhere else) |       O(1)       |
-    | Accessing          |                O(1)                |       O(1)       |
-    | Traversal          |                O(n)                |       O(1)       |
-    | Searching (linear) |                O(n)                |       O(1)       |
-    | Deletion           | O(1) (end)<br>O(n) (anywhere else) |       O(1)       |
+    | Operation          | Time                               | Space |
+    |:-------------------|:----------------------------------:|:-----:|
+    | Creation           | O(1)                               | O(n)  |
+    | Insertion          | O(1) (end)<br>O(n) (anywhere else) | O(1)  |
+    | Accessing          | O(1)                               | O(1)  |
+    | Traversal          | O(n)                               | O(1)  |
+    | Searching (linear) | O(n)                               | O(1)  |
+    | Deletion           | O(1) (end)<br>O(n) (anywhere else) | O(1)  |
 
 (Same as 1D arrays)
 
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
-## 12: Dictionaries
+## 12: Dictionary
 - Collection which is unordered (sort of), mutable, and indexed.
 - Also known as associative array.
 - If element added to dictionary causes a collision, it's added to the associated index as a linked list.
@@ -294,18 +294,18 @@ def f(n):
     | Preferred when you have unique keys | Preferred when you have ordered data |
     |        No duplicate elements        |      Allows duplicate elements       |
 - Complexity
-    | Operation          |     Time Complexity      | Space Complexity |
-    |:-------------------|:------------------------:|:----------------:|
-    | Creation           |        O(len(d))         |       O(n)       |
-    | Insertion          | O(1)<br>O(n) (amortized) |       O(1)       |
-    | Accessing          |           O(1)           |       O(1)       |
-    | Traversal          |           O(n)           |       O(1)       |
-    | Searching (linear) |           O(n)           |       O(1)       |
-    | Deletion           |           O(1)           |       O(1)       |
+    | Operation          | Time                     | Space |
+    |:-------------------|:------------------------:|:-----:|
+    | Creation           | O(len(d))                | O(n)  |
+    | Insertion          | O(1)<br>O(n) (amortized) | O(1)  |
+    | Accessing          | O(1)                     | O(1)  |
+    | Traversal          | O(n)                     | O(1)  |
+    | Searching (linear) | O(n)                     | O(1)  |
+    | Deletion           | O(1)                     | O(1)  |
 
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
-## 13: Tuples
+## 13: Tuple
 - **Immutable** sequence of Python objects.
 - Comparable and hashable (has value that remains same during its lifetime).
 - Parentheses are standard but not required (`my_tuple = (1, 2)` rather than `my_tuple = 1, 2`).
@@ -316,16 +316,16 @@ def f(n):
 - Tuples can be used as keys in dictionaries.
 
 - Complexity
-    | Operation          | Time Complexity | Space Complexity |
-    |:-------------------|:---------------:|:----------------:|
-    | Creation           |      O(1)       |       O(n)       |
-    | Accessing          |      O(1)       |       O(1)       |
-    | Traversal          |      O(n)       |       O(1)       |
-    | Searching (linear) |      O(n)       |       O(1)       |
+    | Operation          | Time | Space |
+    |:-------------------|:----:|:-----:|
+    | Creation           | O(1) | O(n)  |
+    | Accessing          | O(1) | O(1)  |
+    | Traversal          | O(n) | O(1)  |
+    | Searching (linear) | O(n) | O(1)  |
 
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
-## 14: Linked Lists
+## 14: Linked List
 - Collection of independent nodes that may contain any type of data, where each node has a reference (link) to the next node.
 - Very similar to a train (has head and tail, cars joined by links)
 - Starts with head, which just has reference to next node.
@@ -345,14 +345,14 @@ def f(n):
     + Circular doubly linked list - same as doubly linked list except first/last node have references to each other
 
 - Complexity
-    | Operation              | Time Complexity | Space Complexity |
-    |:-----------------------|:---------------:|:----------------:|
-    | Creation               |      O(1)       |       O(1)       |
-    | Insertion              |      O(n)       |       O(1)       |
-    | Searching (linear)     |      O(n)       |       O(1)       |
-    | Traversal              |      O(n)       |       O(1)       |
-    | Deletion (node)        |      O(n)       |       O(1)       |
-    | Deletion (linked list) |      O(1)       |       O(1)       |
+    | Operation              | Time | Space |
+    |:-----------------------|:----:|:-----:|
+    | Creation               | O(1) | O(1)  |
+    | Insertion              | O(n) | O(1)  |
+    | Searching (linear)     | O(n) | O(1)  |
+    | Traversal              | O(n) | O(1)  |
+    | Deletion (node)        | O(n) | O(1)  |
+    | Deletion (linked list) | O(1) | O(1)  |
 
 - Time complexity (versus array) (Note: some of these don't seem right but were what was presented)
     | Operation                   |  Array   | Linked List |
@@ -369,6 +369,11 @@ def f(n):
     | Deletion (nth position)     |   O(1)   |    O(n)     |
     | Deletion (self)             |   O(1)   |  O(n)/O(1)  |
     | Access nth element          |   O(1)   |    O(n)     |
+
+<!-- ───────────────────────────────────────────────────────────────────────────── -->
+
+## 15: Circular Singly Linked List
+- Same as singly linked list, but last node points to first node.
 
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
@@ -421,3 +426,9 @@ def f(n):
 - Inorder traversal: left → root → right. DFS. Last visited is rightmost node of rightmost subtree.
 - Postorder traversal: left → right → root. DFS. Last visited is root node of overall tree.
 - Levelorder traversal: level by level. BFS. Last visited is rightmost node of lowest level.
+
+<!-- ───────────────────────────────────────────────────────────────────────────── -->
+
+## History
+- 2021/12/??: Complete sections 1-8, 12-14, 19-20, 22. (need to review)
+- 2022/12/21: Revive + complete section 15.
