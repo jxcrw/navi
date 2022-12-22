@@ -9,6 +9,7 @@ My notes and code from [The Rust Programming Language](https://doc.rust-lang.org
 - `cargo run`: Build and run project.
 - `cargo check`: Check that code compiles, but don't emit binary.
 - `cargo update`: Update to latest acceptable versions of crates specified in `cargo.toml`.
+- Code: [`hello_world`](./src/hello_world.rs), [`hello_cargo`](./src/hello_cargo.rs)
 
 
 ### [2. Guessing Game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
@@ -18,9 +19,18 @@ My notes and code from [The Rust Programming Language](https://doc.rust-lang.org
 - `Result` type is an enum with two _variants_: `Ok` and `Err`.
 - `"str".trim()` to trim whitespace off a string.
 - `"str".parse()` to convert strings to another type.
+- Code: [`guess`](./src/guess.rs)
 
 
 ### [3. Common Programming Concepts](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)
+#### [3.1 Variables and Mutability](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html)
+- Constants (`const`): always immutable, type must be annotated, declarable in any scope, must be constant expression.
+- Shadowing: allows a few transformations on a variable, then variable becomes immutable.
+    + Makes it possible to change type of value bound to variable.
+- Code: [`variables`](./src/variables.rs)
+
+#### [3.2 Data Types](https://doc.rust-lang.org/book/ch03-02-data-types.html)
+
 
 
 ### [Appendix E - Editions](https://doc.rust-lang.org/book/appendix-05-editions.html)
@@ -36,3 +46,8 @@ My notes and code from [The Rust Programming Language](https://doc.rust-lang.org
     * `stable` branches from `beta` six weeks after that beta was created to create a stable release.
 - Unstable features protected behind feature flags and only usable in nightly releases.
 - Stability without stagnation.
+
+
+## History
+- 2022/12/16: Read Appendices E/G + chapters 1-2.
+- 2022/12/21: Read Appendix A + chapter 3.1.
