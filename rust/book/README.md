@@ -9,7 +9,7 @@ My notes and code from [The Rust Programming Language](https://doc.rust-lang.org
 - `cargo run`: Build and run project.
 - `cargo check`: Check that code compiles, but don't emit binary.
 - `cargo update`: Update to latest acceptable versions of crates specified in `cargo.toml`.
-- Code: [`hello_world`](./src/hello_world.rs), [`hello_cargo`](./src/hello_cargo.rs)
+- Code: [`hello`](./src/hello.rs)
 
 
 ### [2. Guessing Game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
