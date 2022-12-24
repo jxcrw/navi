@@ -150,3 +150,7 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2022/12/20: [Rust Demystified Simplifying The Toughest Parts (14:05)](https://www.youtube.com/watch?v=TJTDTyNdJdY)
 - 2022/12/21: [Rust Powered Database SurrealDB (It's Pretty Ambitious) (11:28)](https://www.youtube.com/watch?v=DPQbuW9dQ7w)
 - 2022/12/21: [Rust's Angel Data Types Box, Rc, Arc (11:54)](https://www.youtube.com/watch?v=CTTiaOo4cbY)
+- 2022/12/23: [Why would a python programmer learn rust when there are no jobs in it (23:09)](https://www.youtube.com/watch?v=IYLf8lUqR40)
+- 2022/12/24: [Rust Out Your C by Carol (Nichols || Goulding) (18:56)](https://www.youtube.com/watch?v=SKGVItFlK3w&t=905s)
+- 2022/12/24: [Building on an unsafe foundation (35:35)](https://www.youtube.com/watch?v=rTo2u13lVcQ)
+- 2022/12/24: [Rust: A Language for the Next 40 Years - Carol Nichols (55:08)](https://www.youtube.com/watch?v=A3AdN7U24iU)
