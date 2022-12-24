@@ -122,6 +122,13 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2022/12/14: [To identify properties of Integers (4:10)](https://www.youtube.com/watch?v=OUnrhnSwG3k)
 - 2022/12/14: [Divisibility - Discrete Mathematics (9:33)](https://www.youtube.com/watch?v=K2YmMpulFA4)
 
+#### GCD's and the Euclidean Algorithm
+- 2022/12/24: [Extended Euclidean Algorithm Example (14:49)](https://www.youtube.com/watch?v=6KmhCKxFWOs)
+- 2022/12/24: [BM10: Divisibility Properties of the Integers (25:24)](https://www.youtube.com/watch?v=N6XEUfdIznE)
+- 2022/12/24: [BM10.1. The Euclidean Algorithm for the Integers (9:02)](https://www.youtube.com/watch?v=P-HZy2UM1N8)
+- 2022/12/24: [Write gcd(119,84) as a linear combination of 119 and 84 (13:24)](https://www.youtube.com/watch?v=rHmqAFdJnN8)
+- 2022/12/24: [Write gcd(123, 2347) as a linear combination of 123 and 2347 (19:49)](https://www.youtube.com/watch?v=ChBeDuNBMzA)
+
 
 ## Rust
 - 2022/12/13: [Rust: Your code can be PERFECT `RUST-1` (6:50)](https://www.youtube.com/watch?v=Q3AhzHq8ogs)
