@@ -17,3 +17,4 @@ Note: Most (all?) notes/code just get incorporated directly into my [neovim conf
 - 2022/12/12: Read pp 99-118.
 - 2022/12/13: Read pp 119-131.
 - 2022/12/20: Read pp 132-138.
+- 2022/12/24: Read pp 139-151.
