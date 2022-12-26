@@ -154,3 +154,4 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2022/12/24: [Rust Out Your C by Carol (Nichols || Goulding) (18:56)](https://www.youtube.com/watch?v=SKGVItFlK3w&t=905s)
 - 2022/12/24: [Building on an unsafe foundation (35:35)](https://www.youtube.com/watch?v=rTo2u13lVcQ)
 - 2022/12/24: [Rust: A Language for the Next 40 Years - Carol Nichols (55:08)](https://www.youtube.com/watch?v=A3AdN7U24iU)
+- 2022/12/26: [Is It Time to Rewrite the Operating System in Rust? (1:09:17)](https://www.youtube.com/watch?v=HgtRAbE1nBM)
