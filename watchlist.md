@@ -129,6 +129,11 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2022/12/24: [Write gcd(119,84) as a linear combination of 119 and 84 (13:24)](https://www.youtube.com/watch?v=rHmqAFdJnN8)
 - 2022/12/24: [Write gcd(123, 2347) as a linear combination of 123 and 2347 (19:49)](https://www.youtube.com/watch?v=ChBeDuNBMzA)
 
+#### Fundamental Theorem of Arithmetic
+- 2022/12/26: [Number Theory - Fundamental Theorem of Arithmetic (8:47)](https://www.youtube.com/watch?v=7sw6LdAfHgE)
+- 2022/12/26: [The Euclidean Algorithm (GCD or GCF) (2:35)](https://www.youtube.com/watch?v=AJn843kplDw)
+- 2022/12/26: [Diophantine Equation: ax+by=gcd(a,b) ← Number Theory (9:42)](https://www.youtube.com/watch?v=FjliV5u2IVw)
+
 
 ## Rust
 - 2022/12/13: [Rust: Your code can be PERFECT `RUST-1` (6:50)](https://www.youtube.com/watch?v=Q3AhzHq8ogs)
