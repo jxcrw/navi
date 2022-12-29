@@ -161,3 +161,5 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2022/12/24: [Rust: A Language for the Next 40 Years - Carol Nichols (55:08)](https://www.youtube.com/watch?v=A3AdN7U24iU)
 - 2022/12/26: [Is It Time to Rewrite the Operating System in Rust? (1:09:17)](https://www.youtube.com/watch?v=HgtRAbE1nBM)
 - 2022/12/26: ["NTFS really isn't that bad" - Robert Collins (LCA 2020) (48:03)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
+- 2022/12/28: [Rust in 2024 (Niko Matsakis) (59:09)](https://www.youtube.com/watch?v=OuSiuySr6_Q)
+- 2022/12/28: [Ace Rust Macros ♠️ the declarative kind (14:06)](https://www.youtube.com/watch?v=IsCBibC0PZE)
