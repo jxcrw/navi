@@ -163,3 +163,6 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2022/12/26: ["NTFS really isn't that bad" - Robert Collins (LCA 2020) (48:03)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
 - 2022/12/28: [Rust in 2024 (Niko Matsakis) (59:09)](https://www.youtube.com/watch?v=OuSiuySr6_Q)
 - 2022/12/28: [Ace Rust Macros ♠️ the declarative kind (14:06)](https://www.youtube.com/watch?v=IsCBibC0PZE)
+- 2022/12/30: [Mocking Rust 🤪 and Testing 🧪 (11:58)](https://www.youtube.com/watch?v=8XaVlL3lObQ&t=611s)
+- 2022/12/30: [Rust Tests Itself (Kind of!) `RUST-15` (11:40)](https://www.youtube.com/watch?v=JIvKgSyvtxI)
+- 2023/01/02: [A Case for Oxidation: The Rust Programming Language (38:28)](https://www.youtube.com/watch?v=cDFSrVhnZKo)
