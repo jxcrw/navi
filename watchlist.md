@@ -134,6 +134,13 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2022/12/26: [The Euclidean Algorithm (GCD or GCF) (2:35)](https://www.youtube.com/watch?v=AJn843kplDw)
 - 2022/12/26: [Diophantine Equation: ax+by=gcd(a,b) ← Number Theory (9:42)](https://www.youtube.com/watch?v=FjliV5u2IVw)
 
+#### Modular Arithmetic
+- 2023/01/03: [Lecture on Modulo Arithmetic Part 1 (5:34)](https://www.youtube.com/watch?v=l0DWLBX5d2A)
+- 2023/01/03: [Modular Arithmetic: Modulo Concept - Part 1 (17:56)](https://www.youtube.com/watch?v=akfFEj7oTn0)
+- 2023/01/03: [Discrete Math Modular Exponentiation (9:13)](https://www.youtube.com/watch?v=sL-YtCqDS90)
+- 2023/01/03: [Rule of Sum and Rule of Product (11:11)](https://www.youtube.com/watch?v=MmzJF2L_5PA)
+- 2023/01/03: [Discrete Math 2 - Tutorial 1 - Rule of Sum and Product (6:00)](https://www.youtube.com/watch?v=mdiP-aqj6ho)
+
 
 ## Rust
 - 2022/12/13: [Rust: Your code can be PERFECT `RUST-1` (6:50)](https://www.youtube.com/watch?v=Q3AhzHq8ogs)
