@@ -141,6 +141,13 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2023/01/03: [Rule of Sum and Rule of Product (11:11)](https://www.youtube.com/watch?v=MmzJF2L_5PA)
 - 2023/01/03: [Discrete Math 2 - Tutorial 1 - Rule of Sum and Product (6:00)](https://www.youtube.com/watch?v=mdiP-aqj6ho)
 
+#### Permutations and Combinations
+- 2023/01/05: [Permutations (10:10)](https://www.youtube.com/watch?v=XqQTXW7XfYA)
+- 2023/01/05: [Permutations Made Easy- Counting Using Permutations (10:30)](https://www.youtube.com/watch?v=-mC_QK6dBIY)
+- 2023/01/05: [Counting Principle, Permutations, and Combinations (24:40)](https://www.youtube.com/watch?v=AIESE6pnODo)
+- 2023/01/05: [Binomial Theorem (part 1) (12:37)](https://www.youtube.com/watch?v=Cv4YhIMfbeM)
+- 2023/01/05: [Binomial Theorem (part 2)](https://www.youtube.com/watch?v=-fFWWt1m9k0)
+
 
 ## Rust
 - 2022/12/13: [Rust: Your code can be PERFECT `RUST-1` (6:50)](https://www.youtube.com/watch?v=Q3AhzHq8ogs)
