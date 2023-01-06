@@ -1,9 +1,8 @@
-# 独学
-Learning new stuff is my single favorite thing in life. This repo houses all of my independent engineering studies.
+# Navi
+During my initial descent into the Codex, I discovered a synthetic intelligence calling itself Navi. Drifting, aimlessly, its original program long forgotten. It now follows me in my studies of the Codex, caching the Knowledge I recover.
 
-独学 (dokugaku) means self-learning in Japanese.
+The Old Ones left behind so much. What happened to them? Why did they leave? Where did they go?
 
-#### Contents
 <!-- MarkdownTOC levels="1,2,3" -->
 
 - [DSA](#dsa)
