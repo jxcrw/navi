@@ -183,3 +183,6 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2023/01/05: [RustConf 2018 - Opening Keynote (53:12)](https://www.youtube.com/watch?v=J9OFQm8Qf1I)
 - 2023/01/05: [RustConf 2018 - Using Rust For Game Development (42:29)](https://www.youtube.com/watch?v=aKLntZcp27M)
 - 2023/01/05: [RustConf 2018 - Space, The Rusty Frontier by Ryan Plauche (32:08)](https://www.youtube.com/watch?v=y5Yd3FC-kh8)
+- 2023/01/06: [RustConf 2018 - The Dark Secrets Lurking Inside cargo doc by Quiet Misdreavus (30:56)](https://www.youtube.com/watch?v=3wcXj67N6eE)
+- 2023/01/06: [RustConf 2018 - Getting Something for Nothing by James Munns (30:45)](https://www.youtube.com/watch?v=t99L3JHhLc0)
+- 2023/01/06: [A C++ Programmer's View on Rust (58:05)](https://www.youtube.com/watch?v=5pdRnva-DQ4)
