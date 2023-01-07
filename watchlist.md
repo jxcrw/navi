@@ -148,6 +148,14 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2023/01/05: [Binomial Theorem (part 1) (12:37)](https://www.youtube.com/watch?v=Cv4YhIMfbeM)
 - 2023/01/05: [Binomial Theorem (part 2)](https://www.youtube.com/watch?v=-fFWWt1m9k0)
 
+#### Inclusion-Exclusion Counting
+- 2023/01/06: [Binomial theorem combinatorics connection (11:58)](https://www.youtube.com/watch?v=xF_hJaXUNfE)
+- 2023/01/06: [Arsdigita 02 (Discrete Mathematics) Lecture 3/20 (29:03)](https://www.youtube.com/watch?v=t3XdRbPNtdg)
+- 2023/01/06: [Discrete Math 2-Tutorial 13 - Example 1: Inclusion/Exlusion (9:53)](https://www.youtube.com/watch?v=Egdpa1EPKK0)
+- 2023/01/06: [Meep's Math Matters 8: The Pigeonhole Principle (9:40)](https://www.youtube.com/watch?v=Uic3ECK1nso)
+- 2023/01/06: [Meep's Math Matters 9: Pigeonhole Principle Answers (9:41)](https://www.youtube.com/watch?v=nWr7aXPzBtU)
+- 2023/01/06: [Pigeon Hole Principle (TANTON Mathematics) (6:32)](https://www.youtube.com/watch?v=SYM7YVcreMg)
+
 
 ## Rust
 - 2022/12/13: [Rust: Your code can be PERFECT `RUST-1` (6:50)](https://www.youtube.com/watch?v=Q3AhzHq8ogs)
