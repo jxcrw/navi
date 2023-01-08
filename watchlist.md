@@ -156,6 +156,12 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2023/01/06: [Meep's Math Matters 9: Pigeonhole Principle Answers (9:41)](https://www.youtube.com/watch?v=nWr7aXPzBtU)
 - 2023/01/06: [Pigeon Hole Principle (TANTON Mathematics) (6:32)](https://www.youtube.com/watch?v=SYM7YVcreMg)
 
+#### Counting Using Recurrence Relations
+- 2023/01/08: [Recurrence Relations - Discrete Mathematics (15:24)](https://www.youtube.com/watch?v=eAaP4XaB8hM)
+- 2023/01/08: [Stair Climbing (3:28)](https://www.youtube.com/watch?v=nAP2npokFok)
+- 2023/01/08: [Recursion Algorithm | Tower Of Hanoi - step by step guide (7:18)](https://www.youtube.com/watch?v=5_6nsViVM00)
+- 2023/01/08: [Towers of Hanoi: A Complete Recursive Visualization (21:12)](https://www.youtube.com/watch?v=rf6uf3jNjbo)
+
 
 ## Rust
 - 2022/12/13: [Rust: Your code can be PERFECT `RUST-1` (6:50)](https://www.youtube.com/watch?v=Q3AhzHq8ogs)
