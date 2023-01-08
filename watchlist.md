@@ -194,3 +194,8 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2023/01/06: [RustConf 2018 - The Dark Secrets Lurking Inside cargo doc by Quiet Misdreavus (30:56)](https://www.youtube.com/watch?v=3wcXj67N6eE)
 - 2023/01/06: [RustConf 2018 - Getting Something for Nothing by James Munns (30:45)](https://www.youtube.com/watch?v=t99L3JHhLc0)
 - 2023/01/06: [A C++ Programmer's View on Rust (58:05)](https://www.youtube.com/watch?v=5pdRnva-DQ4)
+- 2023/01/07: [Rust for IOT (45:29)](https://www.youtube.com/watch?v=uCnnhMleoKA)
+- 2023/01/07: [RustConf 2018 - Using Raft in Rust by Siddon Tang (21:28)](https://www.youtube.com/watch?v=ueA44Tz1NF8)
+- 2023/01/07: [RustConf 2018 - No Spaghetti: Designing for Understanding by Brandon W. Maister (31:04)](https://www.youtube.com/watch?v=2uBbjq-Trnk)
+- 2023/01/07: [RustConf 2018 - C2Rust: Migrating Legacy Code to Rust by Per Larsen (28:05)](https://www.youtube.com/watch?v=WEsR0Vv7jhg)
+- 2023/01/07: [RustConf 2018 - Benchmarking and Optimization of Rust Libraries by Paul Mason (30:40)](https://www.youtube.com/watch?v=d2ZQ9-4ZJmQ)
