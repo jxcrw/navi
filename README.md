@@ -1,7 +1,7 @@
 # Navi
-During my initial descent into the Codex, I discovered a synthetic intelligence calling itself Navi. Drifting, aimlessly, its original program long forgotten. It now follows me in my studies of the Codex, caching the Knowledge I recover.
+There I found it drifting, aimlessly, near the shallow upper levels of the Codex. A synthetic intelligence, its original purpose long forgotten, its cache uninitialized save for a single undated header file - `pkms03_Navi`.
 
-The Old Ones left behind so much. What happened to them? Why did they leave? Where did they go?
+It has taken to following me about the Codex, archiving the bits of Knowledge I recover. To what end, I know not.
 
 <!-- MarkdownTOC levels="1,2,3" -->
 
