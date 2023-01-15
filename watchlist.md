@@ -205,3 +205,8 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2023/01/07: [RustConf 2018 - No Spaghetti: Designing for Understanding by Brandon W. Maister (31:04)](https://www.youtube.com/watch?v=2uBbjq-Trnk)
 - 2023/01/07: [RustConf 2018 - C2Rust: Migrating Legacy Code to Rust by Per Larsen (28:05)](https://www.youtube.com/watch?v=WEsR0Vv7jhg)
 - 2023/01/07: [RustConf 2018 - Benchmarking and Optimization of Rust Libraries by Paul Mason (30:40)](https://www.youtube.com/watch?v=d2ZQ9-4ZJmQ)
+- 2023/01/08: [RustConf 2018: Integrating Rust into Tor: Successes and Challenges by Isis Lovecruft & Chelsea Komlo (29:52)](https://www.youtube.com/watch?v=WI4ApeHH9QE)
+- 2023/01/08: [RustConf 2018 - Writing Crates for Complete Beginners - A Tour of Turtle by Sunjay Varma (28:11)](https://www.youtube.com/watch?v=ZtER1Wllbeo)
+- 2023/01/08: [RustConf 2018 - Rust and the Web Platform: A Rookie’s Guide by Sarah Meyer (29:45)](https://www.youtube.com/watch?v=EDoNNFWIRrw)
+- 2023/01/09: [RustConf 2018 - My Little Procedural Macro by Chris Wong (25:59)](https://www.youtube.com/watch?v=11Bme1xw0ag)
+- 2023/01/10: [RustConf 2018 - Project Mentat: a store for evolving data in Rust Delivered by Grisha Kruglov (27:56)](https://www.youtube.com/watch?v=bqG5OfGXI_E)
