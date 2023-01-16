@@ -64,6 +64,17 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
     </tr>
 </table>
 
+
+## Electronics
+<table>
+    <tr>
+        <td>1</td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/_elec/pefi">Practical Electronics for Inventors, Fourth Edition</a></td>
+        <td>2022 - </td>
+    </tr>
+</table>
+
+
 #### Directory Structure
 ```
 ├─ .archived
