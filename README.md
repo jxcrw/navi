@@ -1,5 +1,5 @@
 # Navi
-There I found it drifting, aimlessly, near the shallow upper levels of the Codex. A synthetic intelligence, its original purpose long forgotten, its cache uninitialized save for a single undated header file - `pkms03_Navi`.
+There I found it drifting, aimlessly, in the shallow upper levels of the Codex. A synthetic intelligence, its original purpose long forgotten, its cache uninitialized save for a single undated header file - `pkms03_Navi`.
 
 It has taken to following me about the Codex, archiving the bits of Knowledge I recover. To what end, I know not.
 
@@ -16,7 +16,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 <table>
     <tr>
         <td>1</td>
-        <td><a href="https://github.com/jxcrw/dokugaku/tree/main/_dsa/complete-dsa-python">The Complete Data Structures and Algorithms Course in Python</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/_dsa/complete-dsa-python">The Complete Data Structures and Algorithms Course in Python</a></td>
         <td>2021 - </td>
     </tr>
     <tr>
@@ -26,30 +26,32 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
     </tr>
 </table>
 
+
 ## Python
 <table>
     <tr>
         <td>1</td>
-        <td><a href="https://github.com/jxcrw/dokugaku/tree/main/python/100-days-of-code">100 Days of Code: The Complete Python Pro Bootcamp</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/python/100-days-of-code">100 Days of Code: The Complete Python Pro Bootcamp</a></td>
         <td>2021 - </td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https://github.com/jxcrw/dokugaku/tree/main/python/advanced-python-oop">Advanced Python Programming: Build 10 OOP Applications</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/python/advanced-python-oop">Advanced Python Programming: Build 10 OOP Applications</a></td>
         <td>2021 - </td>
     </tr>
 </table>
+
 
 ## Rust
 <table>
     <tr>
         <td>1</td>
-        <td><a href="https://github.com/jxcrw/dokugaku/tree/main/rust/rustlings">Rustlings</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/rust/rustlings">Rustlings</a></td>
         <td>2022 - </td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https://github.com/jxcrw/dokugaku/tree/main/rust/book">The Rust Programming Language</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/rust/book">The Rust Programming Language</a></td>
         <td>2022 - </td>
     </tr>
 </table>
@@ -59,7 +61,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 <table>
     <tr>
         <td>1</td>
-        <td><a href="https://github.com/jxcrw/dokugaku/tree/main/vim/practical-vim.md">Practical Vim: Edit Text at the Speed of Thought</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/vim/practical-vim.md">Practical Vim: Edit Text at the Speed of Thought, Second Edition</a></td>
         <td>2022 - </td>
     </tr>
 </table>

@@ -1,7 +1,7 @@
 # Complete DSA Python
 My notes and scratch code from the [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/).
 
-Anything reusable gets rolled into my [`pazuru/tools/dsa`](https://github.com/jxcrw/pazuru/tree/main/tools/dsa) repo for use in LeetCode / Advent of Code.
+Anything reusable gets rolled into my [`enigmata`](https://github.com/jxcrw/enigmata/tree/main/tools/dsa) repo for use in LeetCode / Advent of Code.
 
 **Contents**
 <!-- MarkdownTOC levels="1,2" -->
@@ -9,14 +9,16 @@ Anything reusable gets rolled into my [`pazuru/tools/dsa`](https://github.com/jx
 - [1: Introduction](#1-introduction)
 - [2-4: Recursion](#2-4-recursion)
 - [5-6: Big O Notation](#5-6-big-o-notation)
-- [7: Arrays](#7-arrays)
-- [8: Python Lists](#8-python-lists)
-- [12: Dictionaries](#12-dictionaries)
-- [13: Tuples](#13-tuples)
-- [14: Linked Lists](#14-linked-lists)
+- [7: Array](#7-array)
+- [8: Python List](#8-python-list)
+- [12: Dictionary](#12-dictionary)
+- [13: Tuple](#13-tuple)
+- [14: Linked List](#14-linked-list)
+- [15: Circular Singly Linked List](#15-circular-singly-linked-list)
 - [19: Stacks](#19-stacks)
 - [20: Queues](#20-queues)
 - [22: Tree/Binary Tree](#22-treebinary-tree)
+- [History](#history)
 
 <!-- /MarkdownTOC -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
