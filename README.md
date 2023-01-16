@@ -19,6 +19,11 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
         <td><a href="https://github.com/jxcrw/dokugaku/tree/main/_dsa/complete-dsa-python">The Complete Data Structures and Algorithms Course in Python</a></td>
         <td>2021 - </td>
     </tr>
+    <tr>
+        <td>2</td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/_dsa/intro-to-algos">Introduction to Algorithms, Fourth Edition (CLRS)</a></td>
+        <td>2023 - </td>
+    </tr>
 </table>
 
 ## Python
