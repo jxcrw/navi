@@ -5,3 +5,4 @@ Anything reusable gets rolled into my [`enigmata`](https://github.com/jxcrw/enig
 
 
 ## History
+- 2023/01/19: Read pp xiii-xx.
