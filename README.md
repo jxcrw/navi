@@ -1,5 +1,5 @@
 # Navi
-There I found it drifting, aimlessly, in the shallow upper levels of the Codex. A synthetic intelligence, its original purpose long forgotten, its cache uninitialized save for a single undated header file - `pkms03_Navi`.
+There I found it drifting, quietly, aimlessly, in the shallow upper levels of the Codex. A synthetic intelligence, its original purpose long forgotten, its cache uninitialized save for a single empty, undated header file - `pkms03_Navi`.
 
 It has taken to following me about the Codex, archiving the bits of Knowledge I recover. To what end, I know not.
 
@@ -9,6 +9,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 - [Python](#python)
 - [Rust](#rust)
 - [Vim / Neovim](#vim--neovim)
+- [Electronics](#electronics)
 
 <!-- /MarkdownTOC -->
 
@@ -16,12 +17,12 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 <table>
     <tr>
         <td>1</td>
-        <td><a href="https://github.com/jxcrw/navi/tree/main/_dsa/complete-dsa-python">The Complete Data Structures and Algorithms Course in Python</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/dsa/complete-dsa-python">The Complete Data Structures and Algorithms Course in Python</a></td>
         <td>2021 - </td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https://github.com/jxcrw/navi/tree/main/_dsa/intro-to-algos">Introduction to Algorithms, Fourth Edition (CLRS)</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/dsa/intro-to-algos">Introduction to Algorithms, Fourth Edition (CLRS)</a></td>
         <td>2023 - </td>
     </tr>
 </table>
@@ -71,7 +72,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 <table>
     <tr>
         <td>1</td>
-        <td><a href="https://github.com/jxcrw/navi/tree/main/_elec/pefi">Practical Electronics for Inventors, Fourth Edition</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/elec/pefi">Practical Electronics for Inventors, Fourth Edition</a></td>
         <td>2022 - </td>
     </tr>
 </table>
@@ -80,10 +81,9 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 #### Directory Structure
 ```
 ├─ .archived
-├─ _dsa
+├─ dsa
 │   ├─ clrs
 │   └─ complete-dsa-python
-├─ _misc
 ├─ db
 │   ├─ postgres
 │   └─ mongo
