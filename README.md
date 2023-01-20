@@ -22,7 +22,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https://github.com/jxcrw/navi/tree/main/dsa/intro-to-algos">Introduction to Algorithms, Fourth Edition (CLRS)</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/dsa/intro-to-algos">Introduction to Algorithms (Fourth Edition)</a></td>
         <td>2023 - </td>
     </tr>
 </table>
@@ -62,7 +62,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 <table>
     <tr>
         <td>1</td>
-        <td><a href="https://github.com/jxcrw/navi/tree/main/vim/practical-vim.md">Practical Vim: Edit Text at the Speed of Thought, Second Edition</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/vim/practical-vim.md">Practical Vim: Edit Text at the Speed of Thought (Second Edition)</a></td>
         <td>2022 - </td>
     </tr>
 </table>
@@ -72,7 +72,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 <table>
     <tr>
         <td>1</td>
-        <td><a href="https://github.com/jxcrw/navi/tree/main/elec/pefi">Practical Electronics for Inventors, Fourth Edition</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/elec/pefi">Practical Electronics for Inventors (Fourth Edition)</a></td>
         <td>2022 - </td>
     </tr>
 </table>
