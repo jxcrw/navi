@@ -5,6 +5,7 @@ Note: Most (all?) notes/code just get incorporated directly into my [neovim conf
 
 
 ## History
+- 2023/01/20: Read pp 168-171.
 - 2023/01/19: Read pp 161-167.
 - 2022/12/28: Read pp 151-160.
 - 2022/12/24: Read pp 139-151.
