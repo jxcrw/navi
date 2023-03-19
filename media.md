@@ -11,7 +11,7 @@ draft: false
 
 - [Read](#read)
 	+ [Queue](#queue)
-	+ [For Fun](#for-fun)
+	+ [Finished](#finished)
 - [Watch](#watch)
 	+ [Queue](#queue-1)
 	+ [Watched](#watched)
@@ -22,9 +22,11 @@ draft: false
 
 ## Read
 ### Queue
-- Vinge's former wife, Joan D. Vinge, has also written stories in the Zones of Thought universe, based on his notes. These include "The Outcasts of Heaven Belt", "Legacy", and (as of 2008) a planned novel featuring Pham Nuwen.[9]
+- `2022/11/05` Joan Vinge Zones of Thought: "The Outcasts of Heaven Belt", "Legacy", and Pham Nuwen story.
+- `2023/03/19` The Age of EM (Robin Hansen)
+- `2023/03/19` The Elephant in the Brain (Robin Hansen)
 
-### For Fun
+### Finished
 <table>
 <tr>
 	<th align="center">Title</th>
@@ -72,18 +74,18 @@ draft: false
 
 ## Watch
 ### Queue
-- 2022/06/17: How to Train Your Dragon trilogy
-- 2022/06/14: [Code 8](https://en.wikipedia.org/wiki/Code_8_(2019_film))
-- 2022/06/14: Top Gun films
-- 2022/06/09: [El Bar](https://en.wikipedia.org/wiki/The_Bar_(film)) (The Bar)
-- 2022/06/09: [Durante La Tormenta](https://en.wikipedia.org/wiki/Mirage_(2018_film)) (Mirage)
-- 2022/06/09: [Tarde Para La Ira](https://en.wikipedia.org/wiki/The_Fury_of_a_Patient_Man) (The Fury of a Patient Man)
-- 2022/06/09: [La Noche De 12 Años](https://en.wikipedia.org/wiki/A_Twelve-Year_Night) (A Twelve-Year Night)
-- 2022/06/09: [Tu Hijo](https://en.wikipedia.org/wiki/Your_Son) (Your Son)
-- 2022/08/27: Steven's Universe
-- 2022/08/28: Invincible
-- 2022/11/02: Primal Season 2
-- 2022/12/27: Avatar: The Way of Water
+- `2022/06/17` How to Train Your Dragon trilogy
+- `2022/06/14` [Code 8](https://en.wikipedia.org/wiki/Code_8_(2019_film))
+- `2022/06/14` Top Gun films
+- `2022/06/09` [El Bar](https://en.wikipedia.org/wiki/The_Bar_(film)) (The Bar)
+- `2022/06/09` [Durante La Tormenta](https://en.wikipedia.org/wiki/Mirage_(2018_film)) (Mirage)
+- `2022/06/09` [Tarde Para La Ira](https://en.wikipedia.org/wiki/The_Fury_of_a_Patient_Man) (The Fury of a Patient Man)
+- `2022/06/09` [La Noche De 12 Años](https://en.wikipedia.org/wiki/A_Twelve-Year_Night) (A Twelve-Year Night)
+- `2022/06/09` [Tu Hijo](https://en.wikipedia.org/wiki/Your_Son) (Your Son)
+- `2022/08/27` Steven's Universe
+- `2022/08/28` Invincible
+- `2022/11/02` Primal Season 2
+- `2022/12/27` Avatar: The Way of Water
 
 ### Watched
 #### Anime
