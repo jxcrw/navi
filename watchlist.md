@@ -210,3 +210,5 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2023/01/08: [RustConf 2018 - Rust and the Web Platform: A Rookie’s Guide by Sarah Meyer (29:45)](https://www.youtube.com/watch?v=EDoNNFWIRrw)
 - 2023/01/09: [RustConf 2018 - My Little Procedural Macro by Chris Wong (25:59)](https://www.youtube.com/watch?v=11Bme1xw0ag)
 - 2023/01/10: [RustConf 2018 - Project Mentat: a store for evolving data in Rust Delivered by Grisha Kruglov (27:56)](https://www.youtube.com/watch?v=bqG5OfGXI_E)
+- 2023/03/20: [Rust Powered Polymorphism With Traits](https://www.youtube.com/watch?v=CHRNj5oubwc)
+- 2023/03/23: [C++ vs Rust: which is faster?](https://www.youtube.com/watch?v=VMpSYJ_7aYM)
