@@ -85,13 +85,59 @@ draft: false
 - `2022/08/27` Steven's Universe
 - `2022/08/28` Invincible
 - `2022/11/02` Primal Season 2
-- `2022/12/27` Avatar: The Way of Water
+- `2023/04/07` Grizzly Man
+- `2023/04/07` Into The Wild
+- `2023/04/07` Burden Of Dreams
+- `2023/05/10` Big Bad Wolves
+- `2023/05/10` We Need to Talk About Kevin
+- `2023/05/10` Chernobly (miniseries)
+- `2023/05/10` Black Mirror
 
 ### Watched
 #### Anime
 All managed via [MAL](https://myanimelist.net/animelist/AOindustries?status=2&order=2&order2=0).
 
 #### Movies/Shows
+<table>
+<tr>
+	<th align="center">Title</th>
+	<th align="center">Rating</th>
+	<th align="center">Date</th>
+	<th align="center">Notes</th>
+</tr>
+<!-- <tr>
+	<td align="center"><a href="url"></a></td>
+	<td align="center"></td>
+	<td align="center"></td>
+	<td align="center"></td>
+	<td></td>
+</tr> -->
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Slash/Back">Slash/Back</a></td>
+	<td align="center">2</td>
+	<td align="center"> 2023/05/06</td>
+	<td>Alien invasion story in Innuit town. Preschool-level dialogue.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Deadgirl">Deadgirl</a></td>
+	<td align="center">2</td>
+	<td align="center">2023/05/06</td>
+	<td>Zombie exploitation. Not nearly as shocking as chalked up to be.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water">Avatar: The Way of Water</a></td>
+	<td align="center">5</td>
+	<td align="center">2023/04/09</td>
+	<td>Breathtaking scale, excellent story, as expected.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Something_in_the_Dirt">Something in the Dirt</a></td>
+	<td align="center">3</td>
+	<td align="center">2023/04/09</td>
+	<td>Worst Justin Benson/Aaron Moorhead film to date.</td>
+</tr>
+</table>
+
 - 2022/09/08: [Contratiempo](https://en.wikipedia.org/wiki/The_Invisible_Guest) (The Invisible Guest)
 - 2022/09/06: [The Boys S1-S3](https://en.wikipedia.org/wiki/The_Boys_(TV_series))
 - 2022/08/28: [The Green Knight](https://en.wikipedia.org/wiki/The_Green_Knight_(film))
