@@ -212,3 +212,4 @@ A well-regarded playlist on algorithms ([link](https://www.youtube.com/playlist?
 - 2023/01/10: [RustConf 2018 - Project Mentat: a store for evolving data in Rust Delivered by Grisha Kruglov (27:56)](https://www.youtube.com/watch?v=bqG5OfGXI_E)
 - 2023/03/20: [Rust Powered Polymorphism With Traits](https://www.youtube.com/watch?v=CHRNj5oubwc)
 - 2023/03/23: [C++ vs Rust: which is faster?](https://www.youtube.com/watch?v=VMpSYJ_7aYM)
+- 2023/05/16: [Rust Data Modelling WITHOUT OOP](https://www.youtube.com/watch?v=z-0-bbc80JM)
