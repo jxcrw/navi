@@ -25,6 +25,7 @@ draft: false
 - `2022/11/05` Joan Vinge Zones of Thought: "The Outcasts of Heaven Belt", "Legacy", and Pham Nuwen story.
 - `2023/03/19` The Age of EM (Robin Hansen)
 - `2023/03/19` The Elephant in the Brain (Robin Hansen)
+- `2023/05/10` Sexual Intelligence
 
 ### Finished
 <table>
@@ -77,7 +78,6 @@ draft: false
 - `2022/06/17` How to Train Your Dragon trilogy
 - `2022/06/14` [Code 8](https://en.wikipedia.org/wiki/Code_8_(2019_film))
 - `2022/06/14` Top Gun films
-- `2022/06/09` [El Bar](https://en.wikipedia.org/wiki/The_Bar_(film)) (The Bar)
 - `2022/06/09` [Durante La Tormenta](https://en.wikipedia.org/wiki/Mirage_(2018_film)) (Mirage)
 - `2022/06/09` [Tarde Para La Ira](https://en.wikipedia.org/wiki/The_Fury_of_a_Patient_Man) (The Fury of a Patient Man)
 - `2022/06/09` [La Noche De 12 Años](https://en.wikipedia.org/wiki/A_Twelve-Year_Night) (A Twelve-Year Night)
@@ -92,6 +92,7 @@ draft: false
 - `2023/05/10` We Need to Talk About Kevin
 - `2023/05/10` Chernobly (miniseries)
 - `2023/05/10` Black Mirror
+- `2023/06/03` Decision to Leave
 
 ### Watched
 #### Anime
@@ -109,9 +110,20 @@ All managed via [MAL](https://myanimelist.net/animelist/AOindustries?status=2&or
 	<td align="center"><a href="url"></a></td>
 	<td align="center"></td>
 	<td align="center"></td>
-	<td align="center"></td>
 	<td></td>
 </tr> -->
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/John_Wick:_Chapter_4">John Wick: Chapter 4</a></td>
+	<td align="center">1</td>
+	<td align="center">2023/05/27</td>
+	<td>Awful. How did this get such good reviews?</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/The_Bar_(film)">El Bar (The Bar)</a></td>
+	<td align="center">3</td>
+	<td align="center">2023/05/24</td>
+	<td>Fine. Thriller focused mostly on character interaction.</td>
+</tr>
 <tr>
 	<td align="center"><a href="https://en.wikipedia.org/wiki/Slash/Back">Slash/Back</a></td>
 	<td align="center">2</td>
