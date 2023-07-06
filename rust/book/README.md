@@ -1,8 +1,18 @@
 # The Book
 My notes and code from [The Rust Programming Language](https://doc.rust-lang.org/book/).
 
+<!-- MarkdownTOC levels="1,2" -->
 
-### [1. Getting Started](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
+- [1. Getting Started](#1-getting-started)
+- [2. Guessing Game](#2-guessing-game)
+- [3. Common Programming Concepts](#3-common-programming-concepts)
+- [Appendix B: Operators and Symbols](#appendix-b-operators-and-symbols)
+- [Appendix E - Editions](#appendix-e---editions)
+- [Appendix G - How Rust is Made](#appendix-g---how-rust-is-made)
+- [History](#history)
+
+<!-- /MarkdownTOC -->
+## [1. Getting Started](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
 - `main()` always executed first.
 - `cargo new`: Create new project.
 - `cargo build`: Build project.
@@ -12,7 +22,7 @@ My notes and code from [The Rust Programming Language](https://doc.rust-lang.org
 - Code: [`hello`](./src/hello.rs)
 
 
-### [2. Guessing Game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+## [2. Guessing Game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
 - Variables immutable by default.
 - References also immutable by default.
 - `match` expression made up of _arms_. Arms consist of a _pattern_ to match + code to run for that arm.
@@ -22,15 +32,15 @@ My notes and code from [The Rust Programming Language](https://doc.rust-lang.org
 - Code: [`guess`](./src/guess.rs)
 
 
-### [3. Common Programming Concepts](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)
-#### [3.1 Variables and Mutability](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html)
+## [3. Common Programming Concepts](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)
+### [3.1 Variables and Mutability](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html)
 - Constants (`const`): always immutable, type must be annotated, declarable in any scope, must be constant expression.
 - Shadowing: allows a few transformations on a variable, then variable becomes immutable.
     + Makes it possible to change type of value bound to variable.
 - Code: [`variables`](./src/variables.rs)
 
 
-#### [3.2 Data Types](https://doc.rust-lang.org/book/ch03-02-data-types.html)
+### [3.2 Data Types](https://doc.rust-lang.org/book/ch03-02-data-types.html)
 - Scalar type: represents a single value. Four primary scalar types: ints, floats, bools, and chars.
 - Compound type: group multiple values together. Two primitive compound types: tuples and arrays.
 - Integers:
@@ -74,43 +84,11 @@ My notes and code from [The Rust Programming Language](https://doc.rust-lang.org
     * OOB access results in panic at runtime.
 
 
-#### [3.3 Functions](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html)
+### [3.3 Functions](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Appendix B: Operators and Symbols
-
+## Appendix B: Operators and Symbols
 Table B-1: Operators
 
 | Operator | Example | Explanation | Overloadable? |
@@ -286,12 +264,12 @@ Table B-10: Square Brackets
 | `expr[..]`, `expr[a..]`, `expr[..b]`, `expr[a..b]` | Collection indexing pretending to be collection slicing, using `Range`, `RangeFrom`, `RangeTo`, or `RangeFull` as the "index" |
 
 
-### [Appendix E - Editions](https://doc.rust-lang.org/book/appendix-05-editions.html)
+## [Appendix E - Editions](https://doc.rust-lang.org/book/appendix-05-editions.html)
 - New Rust edition released every two or three years.
 - Each edition collects features from previous six-week release cycles into meaningful package.
 
 
-### [Appendix G - How Rust is Made](https://doc.rust-lang.org/book/appendix-07-nightly-rust.html)
+## [Appendix G - How Rust is Made](https://doc.rust-lang.org/book/appendix-07-nightly-rust.html)
 - Developed on train schedule with three release channels/branches: nightly/`master`, beta/`beta`, and stable/`stable`.
     * All dev done on `master`, and new release created every night.
     * `beta` branches from `master` to create a beta release every six weeks.
@@ -302,6 +280,7 @@ Table B-10: Square Brackets
 
 
 ## History
-- 2022/12/16: Read Appendices E/G + chapters 1-2.
-- 2022/12/21: Read Appendix A + chapter 3.1.
-- 2022/12/26: Read chapter 3.2 and Appendix B.
+- `2023/07/05` Tombstone read indefinitely (器用貧乏 / Rust curiosity sated). ☠️
+- `2022/12/16` Read Appendices E/G + chapters 1-2.
+- `2022/12/21` Read Appendix A + chapter 3.1.
+- `2022/12/26` Read chapter 3.2 and Appendix B.
