@@ -26,6 +26,9 @@ draft: false
 - `2023/03/19` The Age of EM (Robin Hansen)
 - `2023/03/19` The Elephant in the Brain (Robin Hansen)
 - `2023/05/10` Sexual Intelligence
+- `2023/07/13` The Murder Bot Diaries (Jill)
+- `2023/07/13` Middle Game (Seanan McGuire)
+- `2023/07/24` Freedom™ (Daniel Suarez)
 
 ### Finished
 <table>
@@ -35,6 +38,13 @@ draft: false
 	<th align="center">Rating</th>
 	<th align="center">Date</th>
 	<th align="center">Notes</th>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Daemon_(novel_series)">Daemon</a></td>
+	<td align="center">Daniel Suarez</td>
+	<td align="center">3</td>
+	<td align="center">2023/07/12</td>
+	<td>Novel ideas about a new world government managed by an algorithm. Lame story and characters.</td>
 </tr>
 <tr>
 	<td align="center"><a href="https://www.goodreads.com/book/show/22668803-influx">Influx</a></td>
