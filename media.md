@@ -28,51 +28,22 @@ draft: false
 - `2023/05/10` Sexual Intelligence
 - `2023/07/13` The Murder Bot Diaries (Jill)
 - `2023/07/13` Middle Game (Seanan McGuire)
-- `2023/07/24` Freedom™ (Daniel Suarez)
+- `2023/07/24` Freedom™ (Daniel Suarez, Daemon sequel)
+- `2023/08/03` Second brain dump
+	+ Entire Foundation Series, 1Q84年, I Am Legend, The Martian - Andy Weir, Contact - Carl Sagan, The Mount - Carol Emshwiler, The Killing Star - Charles R. Pellegrino & George Zebrowski, Singularity Sky - Charles Stross, Accelerando - Charles Stross, Perdido Street Station - China Mieville, The City & The City - China Mieville, The Scar - China Mieville, Rant - Chuck Palahniuk, Blackout - Connie Willis, Doomsday Book - Connie Willis, To Say Nothing of the Dog - Connie Willis, Down and Out in the Magic Kingdom - Cory Doctorow, Makers - Cory Doctorow, Hyperion - Dan Simmons, Earth - David Brin, Infinite Jest - David Foster Wallace, Cloud Atlas - David Mitchell, Ready Player One - Ernest Cline, Air - Geoff Ryman, Queen of Angels - Greg Bear, Diaspora - Greg Egan, Permutation City - Greg Egan, Use of Weapons - Iain M. Banks, The Algebraist - Iain M. Banks, Consider Phlebas - Iain M. Banks, Player of Games - Iain M. Banks, River of Gods - Ian MacDonald, Leviathan Wakes - James S.A. Corey, The Forever War - Joe Haldeman, Old Man's War - John Scalzi, Redshirts - John Scalzi, The Android's Dream - John Scalzi, Agent to the Stars - John Scalzi, Steel Beach - John Varley, The Golden Globe - John Varley, Never Let me Go - Kazuo Ishiguro, Galileo's Dream - Kim Stanley Robinson, Gravity Dreams - L.E. Modesitt, Jr., A World Out of Time - Larry Niven, The Mote in God's Eye - Larry Niven and Jerry Pournelle, Fallen Angels - Larry Niven and Jerry Pournelle, Footfall - Larry Niven and Jerry Pournelle, The Giver - Lois Lowry, Light - M. John Harrison, Oryx and Crake - Margaret Atwood, The Sparrow - Mary Doria Russell, Radio Freefall - Matthew Jarpe, Jurassic Park - Michael Crichton, Prey - Michael Crichton, Beggars in Spain - Nancy Kress, The Diamond Age - Neal Stephenson, Cryptonomicon - Neal Stephenson, Pastwatch: The Redemption of Christopher Columbus - Orson Scott Card, Treason - Orson Scott Card, The Windup Girl - Paolo Bacigalupi, Blindsight - Peter Watts, Spin - Robert Charles Wilson, Calculating God - Robert J. Sawyer, Grass - Sheri S. Tepper, Manifold: Time - Stephen Baxter, 11/22/63 - Stephen King, The Lathe of Heaven - Ursula K. Le Guin, A Canticle for Leibowitz - Walter M. Miller, Jr, Bloom - Wil McCarthy, Neuromancer - William Gibson
+- `2023/08/03` Fall; or, Dodge in Hell (Reamde sequel)
 
 ### Finished
+15,130 pages ⇒ ~8 pages/day
+
 <table>
 <tr>
 	<th align="center">Title</th>
+	<th align="center">Pages</th>
 	<th align="center">Author</th>
 	<th align="center">Rating</th>
 	<th align="center">Date</th>
 	<th align="center">Notes</th>
-</tr>
-<tr>
-	<td align="center"><a href="https://en.wikipedia.org/wiki/Daemon_(novel_series)">Daemon</a></td>
-	<td align="center">Daniel Suarez</td>
-	<td align="center">3</td>
-	<td align="center">2023/07/12</td>
-	<td>Novel ideas about a new world government managed by an algorithm. Lame story and characters.</td>
-</tr>
-<tr>
-	<td align="center"><a href="https://www.goodreads.com/book/show/22668803-influx">Influx</a></td>
-	<td align="center">Daniel Suarez</td>
-	<td align="center">3</td>
-	<td align="center">2022/11/12</td>
-	<td>Blasé undetailed super-advanced tech. Lame story and characters.</td>
-</tr>
-<tr>
-	<td align="center"><a href="https://en.wikipedia.org/wiki/The_Children_of_the_Sky">Children of the Sky</a></td>
-	<td align="center">Vernor Vinge</td>
-	<td align="center">4</td>
-	<td align="center">2022/11/05</td>
-	<td>Political machination-focused story, overall Zones of Thought universe super interesting.</td>
-</tr>
-<tr>
-	<td align="center"><a href="https://en.wikipedia.org/wiki/Ball_Lightning_(novel)">Ball Lightning</a></td>
-	<td align="center">Cixin Liu</td>
-	<td align="center">3.5</td>
-	<td align="center">2022/10/26</td>
-	<td>Interesting well-grounded tech. Ok story, not TBP-level.</td>
-</tr>
-<tr>
-	<td align="center"><a href="https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow">Homo Deus</a></td>
-	<td align="center">Yuval Noah Harari</td>
-	<td align="center">3.5</td>
-	<td align="center">2022/10/08</td>
-	<td>Too much history/religion, not enough future.</td>
 </tr>
 <!-- <tr>
 	<td align="center"><a href="url"></a></td>
@@ -81,6 +52,230 @@ draft: false
 	<td align="center"></td>
 	<td></td>
 </tr> -->
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Daemon_(novel_series)">Daemon</a></td>
+	<td align="center">444</th>
+	<td align="center">Daniel Suarez</td>
+	<td align="center">3</td>
+	<td align="center">2023/07/12</td>
+	<td>Novel ideas about a new world government managed by an algorithm. Lame story and characters.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://www.goodreads.com/book/show/22668803-influx">Influx</a></td>
+	<td align="center">416</th>
+	<td align="center">Daniel Suarez</td>
+	<td align="center">3</td>
+	<td align="center">2022/11/12</td>
+	<td>Blasé undetailed super-advanced tech. Lame story and characters.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/The_Children_of_the_Sky">Children of the Sky</a></td>
+	<td align="center">448</th>
+	<td align="center">Vernor Vinge</td>
+	<td align="center">4</td>
+	<td align="center">2022/11/05</td>
+	<td>Political machination-focused story, overall Zones of Thought universe super interesting.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Ball_Lightning_(novel)">Ball Lightning</a></td>
+	<td align="center">352</th>
+	<td align="center">Cixin Liu</td>
+	<td align="center">4</td>
+	<td align="center">2022/10/26</td>
+	<td>Interesting well-grounded tech. Ok story, not TBP-level.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow">Homo Deus</a></td>
+	<td align="center">448</th>
+	<td align="center">Yuval Noah Harari</td>
+	<td align="center">4</td>
+	<td align="center">2022/10/08</td>
+	<td>Too much history/religion, not enough future.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Anathem">Anathem</a></td>
+	<td align="center">937</th>
+	<td align="center">Neal Stephenson</td>
+	<td align="center">5</td>
+	<td align="center">2022/02/12</td>
+	<td>Concents monastic communities of avout with bolt/chord/sphere, secular society. Fraa Erasmas, Orolo, Ala, Jad Millenarian, Cord.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Seveneves">Seveneves</a></td>
+	<td align="center">880</th>
+	<td align="center">Neal Stephenson</td>
+	<td align="center">4</td>
+	<td align="center">2021/09/15</td>
+	<td>Story of desperate efforts to preserve Homo sapiens after apocalyptic events on Earth due to disintegration of the Moon and the remaking of human society as a space-based civilization after a severe genetic bottleneck.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Reamde">Reamde</a></td>
+	<td align="center">1056</td>
+	<td align="center">Neal Stephenson</td>
+	<td align="center">4</td>
+	<td align="center">2021/07/26</td>
+	<td>Technothriller, Corp 9592 MMORPG T'Rain. Zula, Peter, Sokolov, Abdallah Jones, Reamde ransomware, Hungarian hacker Csongor, Chinese hacker Marlon.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Armor_(novel)">Armor</a></td>
+	<td align="center">432</td>
+	<td align="center">John Steakley</td>
+	<td align="center">5</td>
+	<td align="center">2021/06/20</td>
+	<td>Humans versus huge insect aliens (ants). Research colony threatened by pirates. Felix soldier (essentially Master Chief).</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Fallen_Dragon">Fallen Dragon</a></td>
+	<td align="center">640</td>
+	<td align="center">Peter F. Hamilton</td>
+	<td align="center">3</td>
+	<td align="center">2021/06/10</td>
+	<td>Zantiu-Braun corp plunders planets, Skin supersuits, damaged alien dragon with greatly advanced technological knowledge.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Great_North_Road_(novel)">Great North Road</a></td>
+	<td align="center">976</td>
+	<td align="center">Peter F. Hamilton</td>
+	<td align="center">3</td>
+	<td align="center">2021/05/29</td>
+	<td>Clones of North family, murder mystery with mysterious monster on uncivilized alien planet.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/A_Deepness_in_the_Sky">A Deepness in the Sky</a></td>
+	<td align="center">608</td>
+	<td align="center">Vernor Vinge</td>
+	<td align="center">4</td>
+	<td align="center">2021/05/10</td>
+	<td>OnOff star + spider aliens. Qeng Ho interstellar traders, Emergents enemy humans, Focus human slaves.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep">A Fire Upon the Deep</a></td>
+	<td align="center">391</td>
+	<td align="center">Vernor Vinge</td>
+	<td align="center">5</td>
+	<td align="center">2021/04/24</td>
+	<td>Zones of Thought universe: Unthinking Depths, Slow Zone, Beyond, Transcend. Straumli Realm scientists unleash The Blight trying to reach the Transcend. Ravna Bergsndot, Pham Nuwen, Tines, Jefri, Johanna.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Glasshouse_(novel)">Glasshouse</a></td>
+	<td align="center">352</td>
+	<td align="center">Charles Stross</td>
+	<td align="center">3</td>
+	<td align="center">2021/04/15</td>
+	<td>Robin human male transferred to polity for social experiment and in body of woman Reeve. Political struggles in sci-fi military prison.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Soon_I_Will_Be_Invincible">Soon I Will Be Invincible</a></td>
+	<td align="center">288</td>
+	<td align="center">Austin Grossman</td>
+	<td align="center">5</td>
+	<td align="center">2021/04/11</td>
+	<td>Superhero deconstruction. Dr. Impossible attempts to take overworld for 13th time :) . New Champions Fatale, Blackwolf, Elphin, Lily.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Century_Rain">Century Rain</a></td>
+	<td align="center">512</td>
+	<td align="center">Alastair Reynolds</td>
+	<td align="center">4</td>
+	<td align="center">2021/04/07</td>
+	<td>Alternate version of 1950s Paris where Hitler failed (Earth Two) + people traveling to it from the future in wormholes.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Pushing_Ice">Pushing Ice</a></td>
+	<td align="center">460</td>
+	<td align="center">Alastair Reynolds</td>
+	<td align="center">4</td>
+	<td align="center">2021/03/29</td>
+	<td>Bella Lind vs Svetlana Barseghian on spaceship and colony. Fountainhead aliens with rejuvenation abilities, Musk Dog evil aliens who devour things.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/House_of_Suns">House of Suns</a></td>
+	<td align="center">512</td>
+	<td align="center">Alastair Reynolds</td>
+	<td align="center">5</td>
+	<td align="center">2021/03/19</td>
+	<td>Shatterlings Campion and Purslane of House Gentian. Machine People Hesperus, Cadence and Cascade. Amazing story.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/The_Stand">The Stand</a></td>
+	<td align="center">1153</td>
+	<td align="center">Stephen King</td>
+	<td align="center">4</td>
+	<td align="center">2021/02/28</td>
+	<td>Virus causes collapse of civilization. Randall Flagg demon, Stu Redman, Frannie Goldsmith, Larry Underwood, Trashcan Man. Democratic "Boulder Free Zone".</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Baoshu#The_Redemption_of_Time_%28Three_Body_X%3A_Aeon_of_Contemplation%29">The Redemption of Time</a></td>
+	<td align="center">288</td>
+	<td align="center">Baoshu</td>
+	<td align="center">5</td>
+	<td align="center">2021/02/20</td>
+	<td>Fan-fiction in TBP universe that takes the story all the way to the end.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/The_Institute_(King_novel)">The Institute</a></td>
+	<td align="center">576</td>
+	<td align="center">Stephen King</td>
+	<td align="center">4</td>
+	<td align="center">2021/02/14</td>
+	<td>Special children held against will and experimented on to induce telepathic and telekinetic abilities.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Snow_Crash">Snow Crash</a></td>
+	<td align="center">480</td>
+	<td align="center">Neal Stephenson</td>
+	<td align="center">4</td>
+	<td align="center">2021/02/03</td>
+	<td>Cyberpunk classic - Hiro Protagonist and Y.T. (skateboard Kourier).</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Southern_Reach_Trilogy">Southern Reach Trilogy</a></td>
+	<td align="center">608</td>
+	<td align="center">Jeff VanderMeer</td>
+	<td align="center">3</td>
+	<td align="center">2021/01/15</td>
+	<td>Interesting story, annoying writing style. "So far, and yet so close" etc.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Death%27s_End">Death's End</a></td>
+	<td align="center">592</td>
+	<td align="center">Cixin Liu</td>
+	<td align="center">5</td>
+	<td align="center">2020/12/11</td>
+	<td>Yet more TBP universe goodness :) .</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/The_Dark_Forest">The Dark Forest</a></td>
+	<td align="center">400</td>
+	<td align="center">Cixin Liu</td>
+	<td align="center">5</td>
+	<td align="center">2020/10/27</td>
+	<td>More TBP universe goodness :) .</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)">The Three-Body Problem</a></td>
+	<td align="center">302</td>
+	<td align="center">Cixin Liu</td>
+	<td align="center">5</td>
+	<td align="center">2020/09/23</td>
+	<td>Masterpiece. Explores entire arc of human race after contacting hostile alien species. Good, hard science fiction.</td>
+</tr>
+<tr>
+	<td align="center"><a href="url">One Simple Idea</a></td>
+	<td align="center">288</td>
+	<td align="center">Stephen Key</td>
+	<td align="center">2</td>
+	<td align="center">2018/11/29</td>
+	<td>A inventor bragging about his inventions/giving bad commercial advice.</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People">How to Win Friends and Influence People in the Digital Age</a></td>
+	<td align="center">291</td>
+	<td align="center">Dale Carnegie</td>
+	<td align="center">0</td>
+	<td align="center">2018/11/29</td>
+	<td>I'm so done with self-help books. Go be you.</td>
+</tr>
 </table>
 
 ## Watch
@@ -103,7 +298,7 @@ draft: false
 - `2023/05/10` Chernobly (miniseries)
 - `2023/05/10` Black Mirror
 - `2023/06/03` Decision to Leave
-- `2023/08/03` Second brain cleanup
+- `2023/08/03` Second brain dump
 	+ Infernal Affairs, Election (2005 film), Election 2, https://www.reddit.com/r/movies/comments/19rdwq/what_are_your_favorite_sophisticated_horror_movies/, The Babadook, Housebound, Tusk, Dead Snow: Red vs. Dead, As Above So Below, A Girl Walks Home Alone at Night, 13 Sins, It Follows, Late Phases, Honeymoon, What We Do in the Shadows, Creep, Unfriended, Crimson Peak. The Final Girls, Insidious Chapter 3, The Visit, Bone Tomahawk, We Are Still Here, The Witch, Goodnight Mommy, The Hallow, Deathgasm, The Nightmare, Turbo Kid, The Gift, Green Room, The Guest, Cheap Thrills, The Conjuring 2, Don’t Breathe, Hush, Train to Busan, The Wailing, The Neon Demon, The Shallows, The Invitation, 10 Cloverfield Lane, American Hustle, The Big Short, Damon, Good Will Hunting, The Talented Mr. Ripley, Saving Private Ryan, The Bourne Identity, The Informant, True Grit, Elysium
 
 ### Watched

@@ -5,6 +5,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 
 <!-- MarkdownTOC levels="1,2,3" -->
 
+- [Meta](#meta)
 - [DSA](#dsa)
 - [Python](#python)
 - [Rust](#rust)
@@ -12,6 +13,14 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 - [Electronics](#electronics)
 
 <!-- /MarkdownTOC -->
+## Meta
+<table>
+    <tr>
+        <td>1</td>
+        <td>The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition</td>
+        <td>2020</td>
+    </tr>
+</table>
 
 ## DSA
 <table>
