@@ -7,7 +7,7 @@ from rich.table import Table
 from contextlib import contextmanager
 from typing import List
 
-import cards
+from api import Card, CardsDB, InvalidCardId
 
 import typer
 
@@ -17,7 +17,7 @@ app = typer.Typer(add_completion=False)
 @app.command()
 def version():
     """Return version of cards application"""
-    print(cards.__version__)
+    print("version")
 
 
 @app.command()
@@ -27,7 +27,7 @@ def add(
     """Add a card to db."""
     summary = " ".join(summary) if summary else None
     with cards_db() as db:
-        db.add_card(cards.Card(summary, owner, state="todo"))
+        db.add_card(Card(summary, owner, state="todo"))
 
 
 @app.command()
@@ -36,7 +36,7 @@ def delete(card_id: int):
     with cards_db() as db:
         try:
             db.delete_card(card_id)
-        except cards.InvalidCardId:
+        except InvalidCardId:
             print(f"Error: Invalid card id {card_id}")
 
 
@@ -74,9 +74,9 @@ def update(
     with cards_db() as db:
         try:
             db.update_card(
-                card_id, cards.Card(summary, owner, state=None)
+                card_id, Card(summary, owner, state=None)
             )
-        except cards.InvalidCardId:
+        except InvalidCardId:
             print(f"Error: Invalid card id {card_id}")
 
 
@@ -86,7 +86,7 @@ def start(card_id: int):
     with cards_db() as db:
         try:
             db.start(card_id)
-        except cards.InvalidCardId:
+        except InvalidCardId:
             print(f"Error: Invalid card id {card_id}")
 
 
@@ -96,7 +96,7 @@ def finish(card_id: int):
     with cards_db() as db:
         try:
             db.finish(card_id)
-        except cards.InvalidCardId:
+        except InvalidCardId:
             print(f"Error: Invalid card id {card_id}")
 
 
@@ -128,13 +128,17 @@ def get_path():
     if db_path_env:
         db_path = pathlib.Path(db_path_env)
     else:
-        db_path = pathlib.Path.home() / "cards_db"
+        db_path = pathlib.Path("../db")
     return db_path
 
 
 @contextmanager
 def cards_db():
     db_path = get_path()
-    db = cards.CardsDB(db_path)
+    db = CardsDB(db_path)
     yield db
     db.close()
+
+
+if __name__ == "__main__":
+    app()
