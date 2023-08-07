@@ -17,7 +17,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 <table>
     <tr>
         <td>1</td>
-        <td>The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition</td>
+        <td>The Pragmatic Programmer: 20th Anniversary Edition (2nd Edition)</td>
         <td>2020</td>
     </tr>
 </table>
@@ -48,6 +48,11 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
         <td>2</td>
         <td><a href="https://github.com/jxcrw/navi/tree/main/python/advanced-python-oop">Advanced Python Programming: Build 10 OOP Applications</a></td>
         <td>2021 - </td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/python/pytest-okken">Python Testing with Pytest (Second Edition)</a></td>
+        <td>2023</td>
     </tr>
 </table>
 

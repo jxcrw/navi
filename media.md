@@ -34,7 +34,7 @@ draft: false
 - `2023/08/03` Fall; or, Dodge in Hell (Reamde sequel)
 
 ### Finished
-15,130 pages ⇒ ~8 pages/day
+15,130 pages
 
 <table>
 <tr>
@@ -50,8 +50,17 @@ draft: false
 	<td align="center"></td>
 	<td align="center"></td>
 	<td align="center"></td>
+	<td align="center"></td>
 	<td></td>
 </tr> -->
+<tr>
+	<td align="center"><a href="https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/">Python Testing with Pytest 2e</a></td>
+	<td align="center">274</td>
+	<td align="center">Brian Okken</td>
+	<td align="center">?</td>
+	<td align="center">?</td>
+	<td>?</td>
+</tr>
 <tr>
 	<td align="center"><a href="https://en.wikipedia.org/wiki/Daemon_(novel_series)">Daemon</a></td>
 	<td align="center">444</th>
