@@ -5,6 +5,7 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 
 - [0 Preface](#0-preface)
 - [1 Getting Started](#1-getting-started)
+- [2 Writing Test Functions](#2-writing-test-functions)
 - [History](#history)
 
 <!-- /MarkdownTOC -->
@@ -27,7 +28,7 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 - Test functions should start with `test`.
 - Test classes should start with `Test`.
 - Test files should start with `test_` or end with `_test`.
-- Can specify test files, test dirs, specific tests.
+- Can specify test dirs, files, classes, functions, patterns, etc.
 
 ### Test Outcomes
 | Outcome | Symbol | Notes                                  | Decorator                                        |
@@ -41,5 +42,22 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 
 
 
+## 2 Writing Test Functions
+### Failing with pytest.fail() and Exceptions
+- A test fails if there is any uncaught exception. This can happen when:
+    + `assert` statement fails (raises `AssertionError`).
+    + Code explicitly calls `pytest.fail()`.
+    + Any other exception is raised.
+- Main drawback of `pytest.fail()` is no pytest assert rewriting.
+- Main use case of `pytest.fail()` is for assertion helper functions.
+
+### Structuring Test Functions
+- Common pattern: arrange-act-assert/given-when-then.
+- Anti-pattern: arrange-act-assert-act-assert... .
+    + Doesn't focus on testing a single behavior.
+    + Hard to determine original intent in future.
+
+
+
 ## History
-- `2023/08/06` Read pp x-#.
+- `2023/08/06` Read pp x-30.
