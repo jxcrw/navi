@@ -16,7 +16,7 @@ app = typer.Typer(add_completion=False)
 
 @app.command()
 def version():
-    """Return version of cards application"""
+    """Return version of cards application."""
     print("0.1")
 
 

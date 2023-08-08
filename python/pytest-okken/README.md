@@ -10,6 +10,7 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 - [4 Builtin Fixtures](#4-builtin-fixtures)
 - [5 Parameterization](#5-parameterization)
 - [6 Markers](#6-markers)
+- [7 Strategy](#7-strategy)
 - [History](#history)
 
 <!-- /MarkdownTOC -->
@@ -117,6 +118,29 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 - `@pytest.mark.<custom_marker>` + add to `pytest.ini`.
 - Can be used at test, file, or class level.
 - Third-party package [Faker](https://faker.readthedocs.io/en/master/) provides `faker` fixture to generate fake data.
+
+
+
+## 7 Strategy
+- Totally architecture-dependent. User-visible features usually a good place to start.
+- Consider: security, performance, loading, input validation, etc.
+- Test by application layer (UI/API/DB/etc.).
+    + Here, UI/DB are thin to isolate dependencies, and so that testing API gives more bang for buck.
+- Test by:
+    + Recent - new features/fixes/refactors/etc.
+    + Core - things that must work for product to be useful.
+    + Risk - perhaps like third-party code .
+    + Problematic - things that frequently break or get bug reports.
+    + Expertise - features/algos only understood by a few people.
+- Brainstorming test cases:
+    + Happy path
+    + Interesting input sets
+    + Interesting starting states
+    + Interesting ending states
+    + Possible error states
+- Write explicit strategy and list cases before writing test code.
+- Document bugfixes with tests.
+- Test enough to sleep soundly at night.
 
 
 
