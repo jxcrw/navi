@@ -82,7 +82,11 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 
 
 ## 4 Builtin Fixtures
-
+- `tmp_path` creates temp directory (function scope).
+- `tmp_path_factory` can create multiple temp directories (session scope).
+- `capsys` to capture output written to stdout and stderr.
+- `monkeypatch` to dynamically modify class or module at test runtime.
+- Many more that you don't need to worry about unless you actually have a use case for them.
 
 
 ## History

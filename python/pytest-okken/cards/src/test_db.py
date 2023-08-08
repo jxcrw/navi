@@ -19,6 +19,15 @@ def temp_db():
         db.close()
 
 
+@pytest.fixture(scope="session")
+def temp_db_builtin(tmp_path_factory):
+    """Create temp DB in temp dir."""
+    db_path = tmp_path_factory.mktemp("cards_db")
+    db = CardsDB(db_path)
+    yield db
+    db.close()
+
+
 @pytest.fixture(scope="function")
 def db(temp_db):
     """Ensure that DB is empty."""
