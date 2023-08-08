@@ -20,5 +20,8 @@ def test_explicit_fail():
         pytest.fail("they don't match")
 
 
-if __name__ == "__main__":
-    test_equality_fail()
+@pytest.mark.skip(reason="Card doesn't support < comparison yet")
+def test_less_than():
+    c1 = Card("a task")
+    c2 = Card("b task")
+    assert c1 < c2

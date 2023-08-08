@@ -9,6 +9,7 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 - [3 Fixtures](#3-fixtures)
 - [4 Builtin Fixtures](#4-builtin-fixtures)
 - [5 Parameterization](#5-parameterization)
+- [6 Markers](#6-markers)
 - [History](#history)
 
 <!-- /MarkdownTOC -->
@@ -97,6 +98,25 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 - Fixture parameterization: `@pytest.fixture(params=["param_val1", "param_val2", ...])`
 - Same test, different data ⇒ lean towards function parameterization.
 - Same test, different start state ⇒ lean towards fixture parameterization.
+
+
+
+## 6 Markers
+- Used to indicate that a test is special in some way, or as tags/labels.
+
+| Built-in Marker                 | Description                                             |
+|:--------------------------------|:--------------------------------------------------------|
+| `@pytest.mark.skip()`           | Skips a test, with an optional reason.                  |
+| `@pytest.mark.skipif()`         | Skips test if any of the conditions are True.           |
+| `@pytest.mark.xfail()`          | Indicates that a test is expected to fail.              |
+| `@pytest.mark.parametrize()`    | Test function parameterization.                         |
+| `@pytest.mark.usefixtures()`    | Indicates that a test needs all the specified fixtures. |
+| `@pytest.mark.filterwarnings()` | Adds a warning filter to the given test.                |
+
+### Custom Markers
+- `@pytest.mark.<custom_marker>` + add to `pytest.ini`.
+- Can be used at test, file, or class level.
+- Third-party package [Faker](https://faker.readthedocs.io/en/master/) provides `faker` fixture to generate fake data.
 
 
 
