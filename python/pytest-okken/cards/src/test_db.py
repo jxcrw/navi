@@ -9,6 +9,9 @@ import pytest
 from api import Card, CardsDB
 
 
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ Fixtures
+# └─────────────────────────────────────────────────────────────────────────────
 @pytest.fixture(scope="module")
 def temp_db():
     """Create temp DB in temp dir."""
@@ -20,7 +23,7 @@ def temp_db():
 
 
 @pytest.fixture(scope="session")
-def temp_db_builtin(tmp_path_factory):
+def temp_db_builtin(tmp_path_factory): # ← Builtin fixture.
     """Create temp DB in temp dir."""
     db_path = tmp_path_factory.mktemp("cards_db")
     db = CardsDB(db_path)
@@ -29,7 +32,7 @@ def temp_db_builtin(tmp_path_factory):
 
 
 @pytest.fixture(scope="function")
-def db(temp_db):
+def db(temp_db):                  # ← Fixture scaffolding.
     """Ensure that DB is empty."""
     temp_db.delete_all()
     return temp_db
@@ -47,13 +50,16 @@ def cards():
 
 
 @pytest.fixture(scope="function")
-def prepopulated_db(db, cards):
+def prepopulated_db(db, cards):    # ← Fixture that uses multiple other fixtures.
     """CardsDB object that's been populated with 'cards'"""
     for c in cards:
         db.add_card(c)
     return db
 
 
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ Basic Tests
+# └─────────────────────────────────────────────────────────────────────────────
 def test_empty(db):
     assert db.count() == 0
 
@@ -80,3 +86,56 @@ def test_add_some(db, cards):
 
 def test_prepopulated(prepopulated_db):
     assert prepopulated_db.count() > 0
+
+
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ Parameterization
+# └─────────────────────────────────────────────────────────────────────────────
+def test_finish_naive(db):
+    cards = [
+        Card("write a book", state="done"),
+        Card("second edition", state="in prog"),
+        Card("create a course", state="todo"),
+    ]
+    for c in cards:
+        index = db.add_card(c)
+        db.finish(index)
+        card = db.get_card(index)
+        assert card.state == "done"
+
+
+@pytest.mark.parametrize("start_state", ["done", "in prog", "todo"])
+def test_finish(db, start_state):
+    c = Card("write a book", state=start_state)
+    index = db.add_card(c)
+    db.finish(index)
+    card = db.get_card(index)
+    assert card.state == "done"
+
+
+@pytest.mark.parametrize(
+    "start_summary, start_state",
+    [
+        ("write a book", "done"),
+        ("second edition", "in prog"),
+        ("create a course", "todo"),
+    ],
+)
+def test_finish_with_summaries(db, start_summary, start_state):
+    initial_card = Card(summary=start_summary, state=start_state)
+    index = db.add_card(initial_card)
+    db.finish(index)
+    card = db.get_card(index)
+    assert card.state == "done"
+
+
+@pytest.fixture(params=["done", "in prog", "todo"])
+def start_state(request):
+    return request.param
+
+def test_finish_fixture_parameterization(db, start_state):
+    c = Card("write a book", state=start_state)
+    index = db.add_card(c)
+    db.finish(index)
+    card = db.get_card(index)
+    assert card.state == "done"

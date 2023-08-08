@@ -8,6 +8,7 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 - [2 Writing Test Functions](#2-writing-test-functions)
 - [3 Fixtures](#3-fixtures)
 - [4 Builtin Fixtures](#4-builtin-fixtures)
+- [5 Parameterization](#5-parameterization)
 - [History](#history)
 
 <!-- /MarkdownTOC -->
@@ -87,6 +88,16 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 - `capsys` to capture output written to stdout and stderr.
 - `monkeypatch` to dynamically modify class or module at test runtime.
 - Many more that you don't need to worry about unless you actually have a use case for them.
+
+
+
+## 5 Parameterization
+- Way to use a single test function to test many test cases.
+- Test function parameterization: `@pytest.mark.parametrize("param_name", ["param_val1", "param_val2", ...])`
+- Fixture parameterization: `@pytest.fixture(params=["param_val1", "param_val2", ...])`
+- Same test, different data ⇒ lean towards function parameterization.
+- Same test, different start state ⇒ lean towards fixture parameterization.
+
 
 
 ## History
