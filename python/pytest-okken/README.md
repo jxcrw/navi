@@ -6,6 +6,8 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 - [0 Preface](#0-preface)
 - [1 Getting Started](#1-getting-started)
 - [2 Writing Test Functions](#2-writing-test-functions)
+- [3 Fixtures](#3-fixtures)
+- [4 Builtin Fixtures](#4-builtin-fixtures)
 - [History](#history)
 
 <!-- /MarkdownTOC -->
@@ -59,5 +61,30 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 
 
 
+## 3 Fixtures
+- Functions that run before/after tests, get system/data into known state.
+- Strong fixturing support in pytest.
+
+### Fixture Scope
+- `@pytest.fixture(scope="<SCOPE>")`
+- Scopes: `function`, `class`, `module`, `package`, `session`
+- Use a `conftest.py` file to share fixtures among multiple test files.
+- Use `pytest --fixtures` to see where fixtures are defined.
+- Use `pytest --fixtures-per-test` to see what fixtures are used by each test.
+- Can scaffold fixtures to ensure tests don't rely on run order ("test isolation" → golden rule!).
+- Can use multiple fixtures per test.
+
+### Advanced Fixture Scoping
+- Can define custom scope function with logic and pass it by name as a fixture scope to achieve dynamic scoping.
+    + But seems like more complicated than it's worth for many basic use cases.
+- `@pytest.fixture(autouse=True)` for fixtures that always run without being explicitly called.
+
+
+
+## 4 Builtin Fixtures
+
+
+
 ## History
+- `2023/08/07` Read pp 31-.
 - `2023/08/06` Read pp x-30.
