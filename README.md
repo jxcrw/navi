@@ -92,41 +92,12 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 </table>
 
 
-#### Directory Structure
-```
-├─ .archived
-├─ dsa
-│   ├─ clrs
-│   └─ complete-dsa-python
-├─ db
-│   ├─ postgres
-│   └─ mongo
-├─ java
-│   └─ mosh
-├─ python
-│   ├─ advanced-oop
-│   └─ one-hundred-days
-├─ rust
-│   ├─ book
-│   ├─ rustlings
-│   └─ rust-by-example
-├─ vim
-│   ├─ lua
-│   ├─ vim-tips
-│   ├─ wikia
-│   └─ practical-vim.md
-└─ watchlist.md
-```
 
-#### Commit Examples
-- `dsa(cdp): Finish lesson 7`
-- `dsa(clrs): Read chapter 5`
-- `py(aoop): Complete lesson 5`
-- `py(ohd): Complete day 6`
-- `rust(lings): Finish tutorial 5`
-- `rust(book): Read chapter 3`
-- `rust(byx): Finish part 3`
-- `watch: Update rust watchlist`
-- `java(mosh): Finish part 2`
-- `db(mongo): Finish part 3`
-- `vim(lua): Finish next part`
+## Tarot
+<table>
+    <tr>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/tarot/78_dow.md">78 Degrees of Wisdom</a></td>
+        <td>Rachel Pollack</td>
+        <td>2023</td>
+    </tr>
+</table>
