@@ -1,5 +1,5 @@
 # Navi
-There I found it drifting, quietly, aimlessly, in the shallow upper levels of the Codex. A synthetic intelligence, its original purpose long forgotten, its cache uninitialized save for a single empty, undated header file - `pkms03_Navi`.
+There I found it drifting, quietly, aimlessly, in the shallow upper levels of the Codex. A synthetic intelligence, its original purpose long forgotten, its cache uninitialized save for a single empty, undated header file - `pkms03_navi`.
 
 It has taken to following me about the Codex, archiving the bits of Knowledge I recover. To what end, I know not.
 
@@ -9,10 +9,13 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 - [DSA](#dsa)
 - [Python](#python)
 - [Rust](#rust)
-- [Vim / Neovim](#vim--neovim)
+- [Vim](#vim)
 - [Electronics](#electronics)
+- [Pool](#pool)
+- [Tarot](#tarot)
 
 <!-- /MarkdownTOC -->
+
 ## Meta
 <table>
     <tr>
@@ -21,6 +24,8 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
         <td>2020</td>
     </tr>
 </table>
+
+
 
 ## DSA
 <table>
@@ -35,6 +40,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
         <td>2023 - </td>
     </tr>
 </table>
+
 
 
 ## Python
@@ -57,6 +63,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 </table>
 
 
+
 ## Rust
 <table>
     <tr>
@@ -72,7 +79,8 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 </table>
 
 
-## Vim / Neovim
+
+## Vim
 <table>
     <tr>
         <td>1</td>
@@ -80,6 +88,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
         <td>2022 - </td>
     </tr>
 </table>
+
 
 
 ## Electronics
@@ -90,6 +99,10 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
         <td>2022 - </td>
     </tr>
 </table>
+
+
+
+## Pool
 
 
 
