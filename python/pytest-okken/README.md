@@ -145,5 +145,5 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 
 
 ## History
-- `2023/08/07` Read pp 31-.
+- `2023/08/07` Read pp 31-111.
 - `2023/08/06` Read pp x-30.
