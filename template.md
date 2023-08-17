@@ -16,4 +16,4 @@ My notes and scratch code from [TITLE](url).
 
 
 ## History
-- `yyyy/mm/dd` Read pp #-#.
+- `yyyy_mm_dd` Read pp #-#.
