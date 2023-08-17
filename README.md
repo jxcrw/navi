@@ -113,4 +113,9 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
         <td>Rachel Pollack</td>
         <td>2023</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/tarot/tifc.md">Tarot Is F*cking Cool</a></td>
+        <td>Amelia Whitehouse<br>Ruby Wednesday</td>
+        <td>2023</td>
+    </tr>
 </table>
