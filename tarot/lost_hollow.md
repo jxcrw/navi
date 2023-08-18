@@ -41,6 +41,24 @@ My notes from [Lost Hollow Tarot](http://pixeloccult.com/losthollowtarot/index.h
 
 
 ## Majors
+### 0 Fool
+- Element: air.
+- Number: 0 acts as placeholder for any conceivable value.
+- Crow is flying out to begin a new journey.
+- Crow itself reps the animal instinct and trusting of self.
+- Crow is not looking at anything, repping trust in the new journey.
+- Flowers rep passion, white color reps purity. Delicate falling petals rep higher level of being.
+- Skulls rep past experiences - they are part of you but don't control you.
+- Trees in background rep challenges to be navigated while moving forward.
+- Trees are also motif for wands, symbol of power but not held forcefully.
+- Butterfly reps transformation that will take place along the journey.
+    + Direction is opposite of crow - butterfly is returning, while crow is leaving.
+    + Butterfly is itself beautiful and reps the beauty/enjoyment of the journey.
+
+<img src="./_img/lost_hollow/0_fool.png" width="20%">
+
+
+
 ## Cups
 ## Wands
 ## Swords
@@ -50,4 +68,5 @@ My notes from [Lost Hollow Tarot](http://pixeloccult.com/losthollowtarot/index.h
 
 ## History
 - `yyyy_mm_dd` Read pp #-#.
+- `2023/08/18` Read 0 Fool.
 - `2023/08/17` Read intro.

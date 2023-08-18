@@ -6,6 +6,7 @@ My notes from [78 Degrees of Wisdom](https://www.goodreads.com/book/show/344574.
 - [0 Introduction](#0-introduction)
 - [1 The Four Card Pattern](#1-the-four-card-pattern)
 - [2 The Overview](#2-the-overview)
+- [3 The Opening Trumps](#3-the-opening-trumps)
 - [History](#history)
 
 <!-- /MarkdownTOC -->
@@ -48,6 +49,32 @@ My notes from [78 Degrees of Wisdom](https://www.goodreads.com/book/show/344574.
 
 
 
+## 3 The Opening Trumps
+### 0 Fool
+- Number: 0 reps absence of number and therefore infinite possibility/freedom.
+- Stepping off cliff without looking reps leap of faith powered by trust rather than careful planning.
+- Dog reps forces of nature and animal/primordial self.
+    + Deny it and it becomes ferocious, accept it and it becomes powerful.
+- Rose reps passion, white color reps purity, delicate hold reps higher level of being.
+- Bag behind reps past experiences. They are always with you, but they don't control you.
+    + Bears symbol of eagle head, reps soaring spirit.
+- Stick on shoulder is actually a wand, a symbol of power, but held casually.
+- Mountains in background rep challenges along the journey.
+- What society sees for someone who is truly enlightened.
+    + Does not follow societal rules, so looks foolish/carefree.
+- Moby Dick: Herman Melville warns not to step outside of societal path because might never get back.
+- Batman vs Joker: Do not rebel against social values, support law and order.
+- Shade:
+    + Failure to follow instincts or take a chance due to fear of or overdependence on plans/thoughts of others.
+    + Recklessness due to failure to act genuinely.
+    + Lack of awareness - big chances must be taken at the proper time, you can also be more careful or do nothing.
+
+<img src="./_img/rws/0_fool.jpg" width="20%">
+
+
+
 ## History
+- `yyyy_mm_dd` Read pp #-# (card).
+- `2023/08/17` Read pp 24-29 (0 Fool).
 - `2023/08/15` Read pp 20-23.
 - `2023/08/14` Read pp ix-19.
