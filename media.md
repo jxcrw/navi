@@ -46,20 +46,44 @@ draft: false
 	<th align="center">Notes</th>
 </tr>
 <!-- <tr>
-	<td align="center"><a href="url"></a></td>
-	<td align="center"></td>
-	<td align="center"></td>
-	<td align="center"></td>
-	<td align="center"></td>
-	<td></td>
+	<td align="center"><a href="url">title</a></td>
+	<td align="center">pages</td>
+	<td align="center">author</td>
+	<td align="center">rating</td>
+	<td align="center">date</td>
+	<td>notes</td>
 </tr> -->
+<tr>
+	<td align="center"><a href="http://pixeloccult.com/neonmoontarot/index.html">Neon Moon Tarot</a></td>
+	<td align="center">35</td>
+	<td align="center">Pixel Occult</td>
+	<td align="center">rating</td>
+	<td align="center">date</td>
+	<td>notes</td>
+</tr>
+<tr>
+	<td align="center"><a href="http://pixeloccult.com/losthollowtarot/index.html">Lost Hollow Tarot</a></td>
+	<td align="center">57</td>
+	<td align="center">Pixel Occult</td>
+	<td align="center">rating</td>
+	<td align="center">date</td>
+	<td>notes</td>
+</tr>
+<tr>
+	<td align="center"><a href="https://www.goodreads.com/book/show/344574.Seventy_Eight_Degrees_of_Wisdom">78 Degrees of Wisdom</a></td>
+	<td align="center">370</td>
+	<td align="center">Rachel Pollack</td>
+	<td align="center">rating</td>
+	<td align="center">date</td>
+	<td>notes</td>
+</tr>
 <tr>
 	<td align="center"><a href="https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/">Python Testing with Pytest 2e</a></td>
 	<td align="center">274</td>
 	<td align="center">Brian Okken</td>
-	<td align="center">?</td>
-	<td align="center">?</td>
-	<td>?</td>
+	<td align="center">rating</td>
+	<td align="center">date</td>
+	<td>notes</td>
 </tr>
 <tr>
 	<td align="center"><a href="https://en.wikipedia.org/wiki/Daemon_(novel_series)">Daemon</a></td>

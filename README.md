@@ -118,4 +118,14 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
         <td>Amelia Whitehouse<br>Ruby Wednesday</td>
         <td>2023</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/tarot/lost_hollow.md">Lost Hollow Tarot</a></td>
+        <td>Pixel Occult</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/tarot/neon_moon.md">Neon Moon Tarot</a></td>
+        <td>Pixel Occult</td>
+        <td>2023</td>
+    </tr>
 </table>
