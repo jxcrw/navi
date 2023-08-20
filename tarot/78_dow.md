@@ -74,7 +74,7 @@ My notes from [78 Degrees of Wisdom](https://www.goodreads.com/book/show/344574.
 
 
 ## History
-- `yyyy_mm_dd` Read pp #-# (card).
-- `2023/08/17` Read pp 24-29 (0 Fool).
-- `2023/08/15` Read pp 20-23.
-- `2023/08/14` Read pp ix-19.
+- `yyyy_mm_dd` Read pp #-#. `topic`
+- `2023/08/17` Read pp 24-29. `0_fool`
+- `2023/08/15` Read pp 20-23. `overview`
+- `2023/08/14` Read pp ix-19. `preface` `intro` `origins`

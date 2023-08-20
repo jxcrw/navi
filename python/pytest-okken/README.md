@@ -145,5 +145,9 @@ My notes and scratch code from [Python Testing with Pytest](https://pragprog.com
 
 
 ## History
-- `2023/08/07` Read pp 31-111.
-- `2023/08/06` Read pp x-30.
+- `2023/08/07` Read pp 96-111. `test-strategy`
+- `2023/08/07` Read pp 73-95. `markers`
+- `2023/08/07` Read pp 61-72. `parameterization`
+- `2023/08/07` Read pp 49-60. `builtin-fixtures`
+- `2023/08/07` Read pp 31-48. `fixtures`
+- `2023/08/06` Read pp x-30. `intro` `install` `test-functions`

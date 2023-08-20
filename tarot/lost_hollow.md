@@ -67,6 +67,6 @@ My notes from [Lost Hollow Tarot](http://pixeloccult.com/losthollowtarot/index.h
 
 
 ## History
-- `yyyy_mm_dd` Read pp #-#.
-- `2023/08/18` Read 0 Fool.
-- `2023/08/17` Read intro.
+- `yyyy_mm_dd` Read pp #. `topic`
+- `2023/08/18` Read pp 5. `0_fool`
+- `2023/08/17` Read pp 1-4. `intro`

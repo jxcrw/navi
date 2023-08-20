@@ -41,6 +41,6 @@ My notes from [Neon Moon Tarot](http://pixeloccult.com/neonmoontarot/index.html)
 
 
 ## History
-- `yyyy_mm_dd` Read pp #-#.
-- `2023/08/18` Read 0 Fool.
-- `2023/08/17` Read intro.
+- `yyyy_mm_dd` Read pp #. `topic`
+- `2023/08/18` Read pp 4. `0_fool`
+- `2023/08/17` Read pp 1-3. `intro`
