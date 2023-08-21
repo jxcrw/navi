@@ -64,10 +64,11 @@ My notes from [78 Degrees of Wisdom](https://www.goodreads.com/book/show/344574.
     + Does not follow societal rules, so looks foolish/carefree.
 - Moby Dick: Herman Melville warns not to step outside of societal path because might never get back.
 - Batman vs Joker: Do not rebel against social values, support law and order.
-- Shade:
-    + Failure to follow instincts or take a chance due to fear of or overdependence on plans/thoughts of others.
-    + Recklessness due to failure to act genuinely.
-    + Lack of awareness - big chances must be taken at the proper time, you can also be more careful or do nothing.
+
+#### Reversed
+- Failure to follow instincts or take a chance due to fear of or overdependence on plans/thoughts of others.
+- Recklessness due to failure to act genuinely.
+- Lack of awareness - big chances must be taken at the proper time, you can also be more careful or do nothing.
 
 <img src="./_img/rws/0_fool.jpg" width="20%">
 
