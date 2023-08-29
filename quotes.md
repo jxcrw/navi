@@ -14,11 +14,10 @@ draft: false
 	<th align="center">Quote</th>
 </tr>
 <!-- <tr>
-	<td align="center"><a href="url"></a></td>
-	<td align="center"></td>
-	<td align="center"></td>
-	<td align="center"></td>
-	<td></td>
+	<td align="center"><a href="url">title</a></td>
+	<td align="center">author</td>
+	<td align="center">date</td>
+	<td>quote</td>
 </tr> -->
 <tr>
 	<td align="center"><a href="https://en.wikipedia.org/wiki/The_Book_of_Five_Rings">五輪の書<br>The Book of Five Rings</a></td>
@@ -30,6 +29,6 @@ draft: false
 	<td align="center"><a href="https://en.wikipedia.org/wiki/The_Art_of_War">孫子兵法<br>The Art of War</a></td>
 	<td align="center">孙子<br>Sun Tzu</td>
 	<td align="center">2023/03/19</td>
-	<td>Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt</td>
+	<td>Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.</td>
 </tr>
 </table>
