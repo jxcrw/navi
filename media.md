@@ -347,11 +347,17 @@ All managed via [MAL](https://myanimelist.net/animelist/AOindustries?status=2&or
 	<th align="center">Notes</th>
 </tr>
 <!-- <tr>
-	<td align="center"><a href="url"></a></td>
-	<td align="center"></td>
-	<td align="center"></td>
-	<td></td>
+	<td align="center"><a href="url">title</a></td>
+	<td align="center">rating</td>
+	<td align="center">date</td>
+	<td>notes</td>
 </tr> -->
+<tr>
+	<td align="center"><a href="https://en.wikipedia.org/wiki/Mirage_(2018_film)">Durante La Tormenta</a></td>
+	<td align="center">3</td>
+	<td align="center">2023/09/12</td>
+	<td>Woman talks to boy from past during storm, lives change, time paradoxes etc.</td>
+</tr>
 <tr>
 	<td align="center"><a href="https://en.wikipedia.org/wiki/John_Wick:_Chapter_4">John Wick: Chapter 4</a></td>
 	<td align="center">1</td>
