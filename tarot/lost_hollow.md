@@ -58,6 +58,20 @@ My notes from [Lost Hollow Tarot](http://pixeloccult.com/losthollowtarot/index.h
 <img src="./_img/lost_hollow/0_fool.png" width="20%">
 
 
+### 1 Magician
+- Planet: Mercury.
+- Links above and below, the spiritual and the material.
+- Crazy goat head reps connection to the otherworldly.
+- Feet on the ground reps linking that higher spiritual power with earthly manifestation.
+- Four emblems rep having all the possibilities of life needed to manifest will into being.
+- Infinity symbol reps eternity and unlimited potential.
+- White suit reps purity (but also inexperience).
+- Red eyes rep willpower and passion (but also potential for rage and revenge).
+- Ground and trees are blooming, repping that aspirations are beginning to blossom.
+
+<img src="./_img/lost_hollow/1_magician.png" width="20%">
+
+
 
 ## Cups
 ## Wands
@@ -68,5 +82,6 @@ My notes from [Lost Hollow Tarot](http://pixeloccult.com/losthollowtarot/index.h
 
 ## History
 - `yyyy_mm_dd` Read pp #. `topic`
+- `2023/09/17` Read pp 6. `1_magician`
 - `2023/08/18` Read pp 5. `0_fool`
 - `2023/08/17` Read pp 1-4. `intro`

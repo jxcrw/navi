@@ -38,7 +38,7 @@ My notes from [Neon Moon Tarot](http://pixeloccult.com/neonmoontarot/index.html)
 - Device interaction reps channeling higher power, crouched stance reps grounding that energy into reality.
 - Infinity symbol and ouroboros tattoo both rep eternity and unlimited potential.
 - Young affect reps purity (but also inexperience).
-- Red eyes reps willpower and passion (but also potential for rage and revenge).
+- Red eyes rep willpower and passion (but also potential for rage and revenge).
 - Face tattoo looks like growing cybernetic form, repping that aspirations are beginning to grow.
 
 <img src="./_img/neon_moon/1_magician.png" width="20%">
