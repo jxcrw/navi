@@ -5,18 +5,17 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 
 <!-- MarkdownTOC levels="1,2,3" -->
 
-- [Meta](#meta)
+- [General](#general)
 - [DSA](#dsa)
 - [Python](#python)
-- [Rust](#rust)
 - [Vim](#vim)
-- [Electronics](#electronics)
 - [Pool](#pool)
 - [Tarot](#tarot)
+- [Tombstoned](#tombstoned)
 
 <!-- /MarkdownTOC -->
 
-## Meta
+## General
 <table>
     <tr>
         <td>1</td>
@@ -64,39 +63,12 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 
 
 
-## Rust
-<table>
-    <tr>
-        <td>1</td>
-        <td><a href="https://github.com/jxcrw/navi/tree/main/rust/rustlings">Rustlings</a></td>
-        <td>2022 - ☠️</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td><a href="https://github.com/jxcrw/navi/tree/main/rust/book">The Rust Programming Language</a></td>
-        <td>2022 - ☠️</td>
-    </tr>
-</table>
-
-
-
 ## Vim
 <table>
     <tr>
         <td>1</td>
         <td><a href="https://github.com/jxcrw/navi/tree/main/vim/practical-vim.md">Practical Vim: Edit Text at the Speed of Thought (Second Edition)</a></td>
         <td>2022 - </td>
-    </tr>
-</table>
-
-
-
-## Electronics
-<table>
-    <tr>
-        <td>1</td>
-        <td><a href="https://github.com/jxcrw/navi/tree/main/elec/pefi">Practical Electronics for Inventors (Fourth Edition)</a></td>
-        <td>2022 - ☠️</td>
     </tr>
 </table>
 
@@ -127,5 +99,26 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
         <td><a href="https://github.com/jxcrw/navi/tree/main/tarot/neon_moon.md">Neon Moon Tarot</a></td>
         <td>Pixel Occult</td>
         <td>2023</td>
+    </tr>
+</table>
+
+
+
+## Tombstoned
+<table>
+    <tr>
+        <td>1</td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/rust/rustlings">Rustlings</a></td>
+        <td>2022 - ☠️</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/rust/book">The Rust Programming Language</a></td>
+        <td>2022 - ☠️</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/elec/pefi">Practical Electronics for Inventors (Fourth Edition)</a></td>
+        <td>2022 - ☠️</td>
     </tr>
 </table>
