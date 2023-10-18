@@ -333,6 +333,8 @@ draft: false
 - `2023/06/03` Decision to Leave
 - `2023/08/03` Second brain dump
 	+ Infernal Affairs, Election (2005 film), Election 2, https://www.reddit.com/r/movies/comments/19rdwq/what_are_your_favorite_sophisticated_horror_movies/, The Babadook, Housebound, Tusk, Dead Snow: Red vs. Dead, As Above So Below, A Girl Walks Home Alone at Night, 13 Sins, It Follows, Late Phases, Honeymoon, What We Do in the Shadows, Creep, Unfriended, Crimson Peak. The Final Girls, Insidious Chapter 3, The Visit, Bone Tomahawk, We Are Still Here, The Witch, Goodnight Mommy, The Hallow, Deathgasm, The Nightmare, Turbo Kid, The Gift, Green Room, The Guest, Cheap Thrills, The Conjuring 2, Don’t Breathe, Hush, Train to Busan, The Wailing, The Neon Demon, The Shallows, The Invitation, 10 Cloverfield Lane, American Hustle, The Big Short, Damon, Good Will Hunting, The Talented Mr. Ripley, Saving Private Ryan, The Bourne Identity, The Informant, True Grit, Elysium
+- `2023/09/23` The Barbarian
+- `2023-10-10` Colossus
 
 ### Watched
 #### Anime
