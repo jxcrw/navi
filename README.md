@@ -8,6 +8,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 - [General](#general)
 - [DSA](#dsa)
 - [Python](#python)
+- [Flutter](#flutter)
 - [Vim](#vim)
 - [Pool](#pool)
 - [Tarot](#tarot)
@@ -57,6 +58,17 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
     <tr>
         <td>3</td>
         <td><a href="https://github.com/jxcrw/navi/tree/main/python/pytest-okken">Python Testing with Pytest (Second Edition)</a></td>
+        <td>2023</td>
+    </tr>
+</table>
+
+
+
+## Flutter
+<table>
+    <tr>
+        <td>1</td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/flutter/wordpair">Wordpair</a></td>
         <td>2023</td>
     </tr>
 </table>
