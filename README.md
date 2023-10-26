@@ -23,6 +23,17 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
         <td>The Pragmatic Programmer: 20th Anniversary Edition (2nd Edition)</td>
         <td>2020</td>
     </tr>
+    <tr>
+        <td>2</td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/gen/pyweekly.md">Python Weekly</a></td>
+        <td>Python Weekly</td>
+        <td>2023 - ∞</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/gen/progweekly.md">Programmer Weekly</a></td>
+        <td>2023 - ∞</td>
+    </tr>
 </table>
 
 
