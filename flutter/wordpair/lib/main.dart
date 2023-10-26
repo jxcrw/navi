@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         title: 'tagg',
         theme: ThemeData(
           useMaterial3: true,
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.lightGreen),
+          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         ),
         home: MyHomePage(),
       ),
@@ -30,9 +30,19 @@ class MyApp extends StatelessWidget {
 
 class MyAppState extends ChangeNotifier {
   var wordpair = WordPair.random();
+  var faves = <WordPair>[];
 
   void getNext() {
     wordpair = WordPair.random();
+    notifyListeners();
+  }
+
+  void toggleFave() {
+    if (faves.contains(wordpair)) {
+      faves.remove(wordpair);
+    } else {
+      faves.add(wordpair);
+    }
     notifyListeners();
   }
 }
@@ -44,6 +54,8 @@ class MyHomePage extends StatelessWidget {
     var appState = context.watch<MyAppState>();
     var wordpair = appState.wordpair;
 
+    IconData iconFave = (appState.faves.contains(wordpair)) ? Icons.favorite : Icons.favorite_border;
+
     return Scaffold(
       body: Center(
         child: Column(
@@ -51,11 +63,24 @@ class MyHomePage extends StatelessWidget {
           children: [
             BigCard(wordpair: wordpair),
             SizedBox(height: 10),
-            ElevatedButton(
-              onPressed: () {
-                appState.getNext();
-              },
-              child: Icon(Icons.refresh),
+            Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                ElevatedButton.icon(
+                  onPressed: () {
+                    appState.toggleFave();
+                  },
+                  icon: Icon(iconFave),
+                  label: Text('Like'),
+                ),
+                SizedBox(width: 10),
+                ElevatedButton(
+                  onPressed: () {
+                    appState.getNext();
+                  },
+                  child: Icon(Icons.refresh),
+                ),
+              ],
             )
           ],
         ),
