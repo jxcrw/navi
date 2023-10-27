@@ -65,7 +65,7 @@ class _PageHomeState extends State<PageHome> {
       case 0:
         page = PageGenerate();
       case 1:
-        page = Placeholder();
+        page = PageFaves();
       default:
         throw UnimplementedError('No widget for $selectedIndex.');
     }
@@ -177,6 +177,35 @@ class BigCard extends StatelessWidget {
           semanticsLabel: "${wordpair.first} ${wordpair.second}",
         ),
       ),
+    );
+  }
+}
+
+
+class PageFaves extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    var appState = context.watch<MyAppState>();
+
+    if (appState.faves.isEmpty) {
+      return Center(
+        child: Text('No faves yet.'),
+      );
+    }
+
+    return ListView(
+      children: [
+        Padding(
+          padding: const EdgeInsets.all(20),
+          child: Text('You have '
+              '${appState.faves.length} faves:'),
+        ),
+        for (var fave in appState.faves)
+          ListTile(
+            leading: Icon(Icons.favorite),
+            title: Text(fave.asLowerCase),
+          ),
+      ],
     );
   }
 }

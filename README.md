@@ -79,7 +79,7 @@ It has taken to following me about the Codex, archiving the bits of Knowledge I 
 <table>
     <tr>
         <td>1</td>
-        <td><a href="https://github.com/jxcrw/navi/tree/main/flutter/wordpair">Wordpair</a></td>
+        <td><a href="https://github.com/jxcrw/navi/tree/main/flutter/wordpair">Wordpair Codelab</a></td>
         <td>2023</td>
     </tr>
 </table>
