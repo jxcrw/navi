@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           useMaterial3: true,
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         ),
-        home: MyHomePage(),
+        home: PageHome(),
       ),
     );
   }
@@ -48,42 +48,104 @@ class MyAppState extends ChangeNotifier {
 }
 
 
-class MyHomePage extends StatelessWidget {
+class PageHome extends StatefulWidget {
+  @override
+  State<PageHome> createState() => _PageHomeState();
+}
+
+
+class _PageHomeState extends State<PageHome> {
+  var selectedIndex = 0;
+
+  @override
+  Widget build(BuildContext context) {
+
+    Widget page;
+    switch (selectedIndex) {
+      case 0:
+        page = PageGenerate();
+      case 1:
+        page = Placeholder();
+      default:
+        throw UnimplementedError('No widget for $selectedIndex.');
+    }
+
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        return Scaffold(
+          body: Row(
+            children: [
+              SafeArea(
+                child: NavigationRail(
+                  extended: constraints.maxWidth >= 600,
+                  destinations: [
+                    NavigationRailDestination(
+                      icon: Icon(Icons.home),
+                      label: Text('Home'),
+                    ),
+                    NavigationRailDestination(
+                      icon: Icon(Icons.favorite),
+                      label: Text('Favorites'),
+                    ),
+                  ],
+                  selectedIndex: selectedIndex,
+                  onDestinationSelected: (value) {
+                    setState(() {
+                      selectedIndex = value;
+                    });
+                  },
+                ),
+              ),
+              Expanded(
+                child: Container(
+                  color: Theme.of(context).colorScheme.primaryContainer,
+                  child: page,
+                ),
+              ),
+            ],
+          ),
+        );
+      }
+    );
+  }
+}
+
+class PageGenerate extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var appState = context.watch<MyAppState>();
     var wordpair = appState.wordpair;
 
-    IconData iconFave = (appState.faves.contains(wordpair)) ? Icons.favorite : Icons.favorite_border;
+    IconData iconFave = (appState.faves.contains(wordpair))
+        ? Icons.favorite
+        : Icons.favorite_border;
 
-    return Scaffold(
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            BigCard(wordpair: wordpair),
-            SizedBox(height: 10),
-            Row(
-              mainAxisSize: MainAxisSize.min,
-              children: [
-                ElevatedButton.icon(
-                  onPressed: () {
-                    appState.toggleFave();
-                  },
-                  icon: Icon(iconFave),
-                  label: Text('Like'),
-                ),
-                SizedBox(width: 10),
-                ElevatedButton(
-                  onPressed: () {
-                    appState.getNext();
-                  },
-                  child: Icon(Icons.refresh),
-                ),
-              ],
-            )
-          ],
-        ),
+    return Center(
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          BigCard(wordpair: wordpair),
+          SizedBox(height: 10),
+          Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              ElevatedButton.icon(
+                onPressed: () {
+                  appState.toggleFave();
+                },
+                icon: Icon(iconFave),
+                label: Text('Like'),
+              ),
+              SizedBox(width: 10),
+              ElevatedButton(
+                onPressed: () {
+                  appState.getNext();
+                },
+                child: Icon(Icons.refresh),
+              ),
+            ],
+          )
+        ],
       ),
     );
   }
